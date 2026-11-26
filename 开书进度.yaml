@@ -1,0 +1,23 @@
+# 开书进度：本书开书流程的唯一当前状态（格式见 guji-manager 开书全流程）。会话换了读这份续上。
+book_id: 98y6h42f41
+work_id: d59f2nk861hf
+title: 朱楓林集（明萬曆四十四年歙邑朱氏刻本）
+ws_repo: guji-workspace/98y6h42f41-zhu-feng-lin-ji
+project: 明别集（明別集叢刊第一輯第一冊）
+goal: v0.1
+vols: {total: 5, registered: none}
+source:
+  root: commons
+  files: [CADAL02039211, CADAL02039212, CADAL02039213, CADAL02039214, CADAL02039215]
+  pages: [113, 80, 84, 62, 75]
+  chosen_by: Sheldon
+  chosen_on: 2026-11-25
+  note: "Commons 另有 CADAL02061025–028（4 册 419 页）同版本另一部，未取"
+reference: {status: pending, candidates: ["ctext res=104161（未校 OCR）", "明别集丛刊第一册版面 OCR（用户本地，仅参考）"]}
+steps:
+  1a:
+    book_index: {status: done, pr: "open-guji/book-index#3042"}
+    ws_repo: {status: done}
+    source_register: {status: pending, note: "云会话直连 upload.wikimedia.org 429，待取源件"}
+    reference: {status: pending}
+    db_init: {status: pending}

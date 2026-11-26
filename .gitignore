@@ -1,0 +1,16 @@
+# 可再生的不进 git；人产出的在中心库（guji db），原图在 R2（guji source pull）。
+# 路径相对本书目录。gitignore 不认行尾注释，注释只能单独成行。
+
+# 原图：R2 页表 98y6h42f41/<册>，`guji source pull <册> -w <本目录>` 取
+data_full/
+# 产物、缓存、派生库
+output/
+products/
+products_snap/
+products_r*/
+cache/
+binarized/
+__pycache__/
+*.pyc
+# 本机耗时记录
+perf/
