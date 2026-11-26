@@ -26,4 +26,4 @@ steps:
     layout: {status: done, file: layout_profile.yaml, note: "九行二十字，缺省 keben_body_v2 可切；01 序 2–9 页大字六行十四字，册 yaml 按页列数 expected_cols_pages=6（用户 11-26 定要按页设）"}
     page_kinds: {status: done, note: "每册 p1 书衣（cover）"}
     dev_set: {status: done, note: "01:[50,51,86,104]，02–05:[20,40]，Step1–4 跑通，叠图在项目文件 mbj/98y6h42f41-overlays/"}
-    checkup: {status: pending, note: "开书体检单、目标人审率待出"}
+    checkup: {status: done, on: 2026-11-26, doc: "https://claude.ai/artifact/8eqnkERKEDrUEZ6kJUuQgD", note: "建议目标人审率 0.2%，待用户定；借库待 1c 首批人审后实测"}
