@@ -1,0 +1,597 @@
+vol	cell	pending_reason	big	sub	key	owner	fix	conc	cause	kind	ref	top	tok	detail
+001	2:1:12	ref_gap	U	U0		GM2	human	零散		body				
+001	2:2:4	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	2:2:8	ref_ocr_diff	U	U0		GM2	human	零散		body				天>吞
+001	2:6:12	ref_ocr_diff	U	U0		GM2	human	零散		body				闡>間
+001	3:3:2	seg_defect	U	U0		GM2	human	整列		body				clipped
+001	3:3:6	seg_col_unaligned	U	U0		GM2	human	整列		body				01:3:3
+001	3:3:7	seg_col_unaligned	U	U0		GM2	human	整列		body				01:3:3
+001	3:3:9	seg_col_unaligned	U	U0		GM2	human	整列		body				01:3:3
+001	3:3:10	seg_col_unaligned	U	U0		GM2	human	整列		body				01:3:3
+001	3:3:11	seg_col_unaligned	U	U0		GM2	human	整列		body				01:3:3
+001	3:4:2	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	6:2:17	ref_gap	U	U0		GM2	human	零散		body				
+001	6:2:18	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	7:3:20	ref_ocr_diff	U	U0		GM2	human	零散		body				觀>覩
+001	8:1:14	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:駿
+001	8:2:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:詭
+001	8:3:11	lib_missing	U	U0		GM2	human	零散		body				all_zero:櫟
+001	8:6:20	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	9:1:10	hard_pair	U	U0		GM2	human	零散		body				已
+001	9:4:18	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:湊
+001	9:4:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:頓
+001	9:5:2	seg_defect	U	U0		GM2	human	整列		body				clipped
+001	9:5:3	seg_page_unaligned	U	U0		GM2	human	整列		body				01:9
+001	9:5:10	seg_page_unaligned	U	U0		GM2	human	整列		body				01:9
+001	9:5:11	seg_page_unaligned	U	U0		GM2	human	整列		body				01:9
+001	9:5:15	seg_page_unaligned	U	U0		GM2	human	整列		body				01:9
+001	9:5:16	seg_page_unaligned	U	U0		GM2	human	整列		body				01:9
+001	9:6:16b	seg_page_unaligned	U	U0		GM2	human	零散		body				01:9
+001	9:6:17b	seg_page_unaligned	U	U0		GM2	human	零散		body				01:9
+001	9:6:18b	seg_page_unaligned	U	U0		GM2	human	零散		body				01:9
+001	9:6:19b	seg_page_unaligned	U	U0		GM2	human	零散		body				01:9
+001	11:6:10	lib_sparse_dissent	U	U0		GM2	human	零散		body				遠>達
+001	12:8:11	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:瑛
+001	13:7:10	ref_ocr_diff	U	U0		GM2	human	零散		body				魯>鄧
+001	13:7:11	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:愷
+001	14:1:14	ref_gap	U	U0		GM2	human	零散		body				
+001	14:1:15	ref_gap	U	U0		GM2	human	零散		body				
+001	14:6:3	ref_gap	U	U0		GM2	human	零散		body				
+001	15:5:2	group_abstain	U	U0		GM2	human	零散		body				juan:lift
+001	15:9:4	ref_ocr_diff	U	U0		GM2	human	零散		body				書>嘗
+001	16:7:9	lib_missing	U	U0		GM2	human	零散		body				all_zero:彙
+001	17:3:3	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:4:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:4:5	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:5:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:6:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:6:5	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:6:8	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:7:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:7:8	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:7:9	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:8:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:8:5	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:8:7	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:8:8	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:8:10	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:9:2	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:9:3	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	17:9:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:17
+001	18:9:5	ref_ocr_diff	U	U0		GM2	human	零散		body				黎>叅
+001	19:7:7	group_abstain	U	U0		GM2	human	零散		body				mb:lift
+001	19:9:7	lib_sparse_dissent	U	U0		GM2	human	零散		body				襄>衷
+001	20:3:13	ref_ocr_diff	U	U0		GM2	human	零散		body				諸>諧
+001	22:9:9	group_abstain	U	U0		GM2	human	零散		body				rm:lift
+001	24:2:13	lib_missing	U	U0		GM2	human	零散		body				all_zero:莘
+001	25:2:4	ref_gap	U	U0		GM2	human	零散		body				
+001	25:2:5	ref_gap	U	U0		GM2	human	零散		body				
+001	25:9:8	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	25:9:9	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	27:1:4	ref_gap	U	U0		GM2	human	零散		body				
+001	28:1:11	ref_gap	U	U0		GM2	human	零散		body				
+001	28:2:14	ref_ocr_diff	U	U0		GM2	human	零散		body				作>竹
+001	28:5:4	lib_sparse_dissent	U	U0		GM2	human	零散		body				永>末
+001	28:8:20	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	29:2:2	group_abstain	U	U0		GM2	human	零散		body				juan:lift
+001	29:8:4	lib_sparse_dissent	U	U0		GM2	human	零散		body				崑>𦘕
+001	29:9:4	lib_sparse_dissent	U	U0		GM2	human	零散		body				宿>扇
+001	29:9:5	lib_missing	U	U0		GM2	human	零散		body				all_zero:菴
+001	31:2:6	ref_ocr_diff	U	U0		GM2	human	零散		body				空>宐
+001	31:4:7	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	31:6:8	ref_ocr_diff	U	U0		GM2	human	零散		body				勉>墊
+001	31:7:2	group_abstain	U	U0		GM2	human	零散		body				juan:lift
+001	32:1:20	ref_ocr_diff	U	U0		GM2	human	零散		body				記>蹂
+001	32:5:7	ref_ocr_diff	U	U0		GM2	human	零散		body				卓>東
+001	32:8:16	ref_gap	U	U0		GM2	human	零散		body				
+001	33:1:4	ref_gap	U	U0		GM2	human	零散		body				
+001	33:2:4	ref_gap	U	U0		GM2	human	零散		body				
+001	33:3:5	group_abstain	U	U0		GM2	human	零散		body				xjz:lift
+001	33:6:5	ref_gap	U	U0		GM2	human	零散		body				
+001	33:7:6	ref_gap	U	U0		GM2	human	零散		body				
+001	33:8:2	group_abstain	U	U0		GM2	human	零散		body				juan:lift
+001	33:9:3	ref_gap	U	U0		GM2	human	零散		body				
+001	33:9:4	ref_gap	U	U0		GM2	human	零散		body				
+001	34:9:18	ref_gap	U	U0		GM2	human	零散		body				
+001	36:3:5	ref_gap	U	U0		GM2	human	零散		body				
+001	36:4:5	ref_gap	U	U0		GM2	human	零散		body				
+001	36:5:5	ref_ocr_diff	U	U0		GM2	human	零散		body				陽>晞
+001	37:1:19	seg_page_unaligned	U	U0		GM2	human	零散		body				01:37
+001	37:1:20	seg_page_unaligned	U	U0		GM2	human	零散		body				01:37
+001	37:2:3	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	37:2:4	seg_page_unaligned	U	U0		GM2	human	零散		body				01:37
+001	37:2:14	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	37:3:3	seg_page_unaligned	U	U0		GM2	human	整列		body				01:37
+001	37:3:4	seg_page_unaligned	U	U0		GM2	human	整列		body				01:37
+001	37:3:5	seg_page_unaligned	U	U0		GM2	human	整列		body				01:37
+001	37:3:13	seg_page_unaligned	U	U0		GM2	human	整列		body				01:37
+001	37:3:14	seg_page_unaligned	U	U0		GM2	human	整列		body				01:37
+001	38:2:16	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	38:4:17	lib_missing	U	U0		GM2	human	零散		body				all_zero:銷
+001	38:5:2	variant_pair	U	U0		GM2	human	零散		body				場/塲
+001	38:8:12	ref_ocr_diff	U	U0		GM2	human	零散		body				耆>夷
+001	38:8:13	ref_ocr_diff	U	U0		GM2	human	零散		body				老>箋
+001	38:9:3	lib_sparse_dissent	U	U0		GM2	human	零散		body				育>靑
+001	38:9:18	ref_ocr_diff	U	U0		GM2	human	零散		body				如>郊
+001	39:1:4	hard_pair	U	U0		GM2	human	零散		body				已
+001	39:2:3	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	39:6:8	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	40:4:5	lib_sparse_dissent	U	U0		GM2	human	零散		body				哲>耆
+001	40:7:10	ref_ocr_diff	U	U0		GM2	human	零散		body				者>耆
+001	40:9:7	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	41:1:15	ref_gap	U	U0		GM2	human	零散		body				
+001	41:1:20	ref_gap	U	U0		GM2	human	零散		body				
+001	41:4:9	ref_ocr_diff	U	U0		GM2	human	零散		body				空>宐
+001	41:4:20	ref_ocr_diff	U	U0		GM2	human	零散		body				節>師
+001	41:9:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:款
+001	42:5:20	lib_sparse_dissent	U	U0		GM2	human	零散		body				衛>簠
+001	42:6:11	hard_pair	U	U0		GM2	human	零散		body				已
+001	42:6:20	ref_ocr_diff	U	U0		GM2	human	零散		body				東>衆
+001	42:9:4	ref_ocr_diff	U	U0		GM2	human	零散		body				輔>輸
+001	43:1:2	group_abstain	U	U0		GM2	human	零散		body				chuo:lift
+001	43:1:15	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:翫
+001	43:3:4	lib_sparse_dissent	U	U0		GM2	human	零散		body				毋>母
+001	43:3:6	ref_gap	U	U0		GM2	human	零散		body				
+001	43:4:1	ref_ocr_diff	U	U0		GM2	human	零散		body				吳>哭
+001	43:7:3	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:頓
+001	43:7:17	variant_pair	U	U0		GM2	human	零散		body				着/著
+001	44:3:10	ref_ocr_diff	U	U0		GM2	human	零散		body				著>蓍
+001	44:4:18	group_ref_dissent	U	U0		GM2	human	零散		body				men:lift
+001	44:6:5	ref_ocr_diff	U	U0		GM2	human	零散		body				督>觀
+001	44:6:7	lib_sparse_dissent	U	U0		GM2	human	零散		body				佐>值
+001	44:7:4	ref_ocr_diff	U	U0		GM2	human	零散		body				矣>决
+001	44:7:5	group_abstain	U	U0		GM2	human	零散		body				dt:lift
+001	44:7:18	hard_pair	U	U0		GM2	human	零散		body				已/巳
+001	44:8:7	ref_ocr_diff	U	U0		GM2	human	零散		body				涉>訪
+001	44:9:6	lib_sparse_dissent	U	U0		GM2	human	零散		body				青>肯
+001	44:9:7	lib_sparse_dissent	U	U0		GM2	human	零散		body				岡>同
+001	44:9:18	ref_ocr_diff	U	U0		GM2	human	零散		body				石>右
+001	45:1:3	lib_sparse_dissent	U	U0		GM2	human	零散		body				啓>奮
+001	46:1:16	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	46:5:17	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:黜
+001	46:8:6	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:冀
+001	47:1:20	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	47:6:7	group_abstain	U	U0		GM2	human	零散		body				sui:lift
+001	47:8:10	ref_ocr_diff	U	U0		GM2	human	零散		body				留>軍
+001	48:1:1	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	48:4:3	ref_ocr_diff	U	U0		GM2	human	零散		body				乎>孚
+001	48:6:5	ref_ocr_diff	U	U0		GM2	human	零散		body				上>土
+001	48:6:12	ref_ocr_diff	U	U0		GM2	human	零散		body				建>逮
+001	48:7:1	lib_missing	U	U0		GM2	human	零散		body				all_zero:擎
+001	49:3:7	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	49:4:6	lib_sparse_dissent	U	U0		GM2	human	零散		body				尤>尢
+001	49:4:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:譖
+001	49:8:17	ref_ocr_diff	U	U0		GM2	human	零散		body				信>鄂
+001	50:3:3	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	50:3:4	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	50:5:3	ref_ocr_diff	U	U0		GM2	human	零散		body				繼>祖
+001	50:6:1	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:沫
+001	50:6:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:恃
+001	50:7:3	variant_pair	U	U0		GM2	human	零散		body				决/決
+001	51:6:6	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	51:6:8	lib_sparse_dissent	U	U0		GM2	human	零散		body				尤>尢
+001	51:6:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:獎
+001	51:8:1	lib_sparse_dissent	U	U0		GM2	human	零散		body				肱>肌
+001	51:8:19	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	52:2:1	ref_ocr_diff	U	U0		GM2	human	零散		body				公>瓜
+001	52:8:12	ref_ocr_diff	U	U0		GM2	human	零散		body				題>廼
+001	52:9:7	lib_missing	U	U0		GM2	human	零散		body				all_zero:猱
+001	53:1:14	near_form_guard	U	U0		GM2	human	零散		body				而/面
+001	53:3:20	ref_ocr_diff	U	U0		GM2	human	零散		body				余>今
+001	53:5:8	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	53:7:11	ref_ocr_diff	U	U0		GM2	human	零散		body				服>股
+001	53:7:12	ref_ocr_diff	U	U0		GM2	human	零散		body				朕>肱
+001	53:8:10	ref_gap	U	U0		GM2	human	零散		body				
+001	53:9:9	lib_missing	U	U0		GM2	human	零散		body				all_zero:鈴
+001	53:9:14	lib_missing	U	U0		GM2	human	零散		body				all_zero:敎
+001	53:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	54:1:3	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	54:2:17	ref_ocr_diff	U	U0		GM2	human	零散		body				勢>勝
+001	54:3:6	lib_sparse_dissent	U	U0		GM2	human	零散		body				闔>閫
+001	54:3:19	lib_missing	U	U0		GM2	human	零散		body				all_zero:駭
+001	54:4:3	lib_sparse_dissent	U	U0		GM2	human	零散		body				歛>歙
+001	54:5:15	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:惇
+001	54:5:18	lib_missing	U	U0		GM2	human	零散		body				all_zero:瘼
+001	54:6:2	ref_ocr_diff	U	U0		GM2	human	零散		body				空>宐
+001	54:6:3	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:縻
+001	54:6:6	ref_gap	U	U0		GM2	human	零散		body				
+001	54:6:7	ref_gap	U	U0		GM2	human	零散		body				
+001	55:1:19	ref_ocr_diff	U	U0		GM2	human	零散		body				室>宐
+001	55:9:2	ref_ocr_diff	U	U0		GM2	human	零散		body				登>釐
+001	56:1:2	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:惲
+001	56:3:18	lib_sparse_dissent	U	U0		GM2	human	零散		body				赫>輔
+001	56:4:18	group_abstain	U	U0		GM2	human	零散		body				kou:lift
+001	57:2:13	hard_pair	U	U0		GM2	human	零散		body				已
+001	57:3:16	ref_ocr_diff	U	U0		GM2	human	零散		body				學>譽
+001	57:5:17	variant_pair	U	U0		GM2	human	零散		body				往/徃
+001	58:1:20	lib_sparse_dissent	U	U0		GM2	human	零散		body				永>筮
+001	58:3:4	ref_ocr_diff	U	U0		GM2	human	零散		body				書>曹
+001	58:4:4	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:熙
+001	58:8:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:黨
+001	59:3:19	lib_missing	U	U0		GM2	human	零散		body				all_zero:粵
+001	59:4:5	group_abstain	U	U0		GM2	human	零散		body				jys:review
+001	59:4:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:駿
+001	59:6:16	lib_sparse_dissent	U	U0		GM2	human	零散		body				韜>輪
+001	59:7:1	lib_sparse_dissent	U	U0		GM2	human	零散		body				衛>百
+001	59:7:11	ref_ocr_diff	U	U0		GM2	human	零散		body				章>鞏
+001	59:7:18	lib_sparse_dissent	U	U0		GM2	human	零散		body				爵>爾
+001	59:9:10	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:臻
+001	59:9:12	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	60:2:18	ref_ocr_diff	U	U0		GM2	human	零散		body				時>騎
+001	60:2:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:付
+001	60:4:19	ref_gap	U	U0		GM2	human	零散		body				
+001	60:4:20	ref_gap	U	U0		GM2	human	零散		body				
+001	60:7:14	ref_ocr_diff	U	U0		GM2	human	零散		body				懷>愜
+001	60:8:5	variant_pair	U	U0		GM2	human	零散		body				衛/衞
+001	60:9:7	lib_unrecognized	U	U0		GM2	human	零散		body				lib_diff:開
+001	60:9:8	ref_ocr_diff	U	U0		GM2	human	零散		body				於>翰
+001	60:9:14	variant_pair	U	U0		GM2	human	零散		body				衛/衞
+001	60:9:15	ref_ocr_diff	U	U0		GM2	human	零散		body				空>宐
+001	61:4:14	ref_ocr_diff	U	U0		GM2	human	零散		body				蒙>襲
+001	61:4:15	ref_ocr_diff	U	U0		GM2	human	零散		body				簡>爵
+001	61:4:20	lib_sparse_dissent	U	U0		GM2	human	零散		body				閫>闢
+001	61:5:8	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	61:8:6	ref_ocr_diff	U	U0		GM2	human	零散		body				禦>樂
+001	61:9:12	lib_sparse_dissent	U	U0		GM2	human	零散		body				據>攄
+001	61:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	62:3:1	lib_sparse_dissent	U	U0		GM2	human	零散		body				昆>毘
+001	62:3:4	ref_gap	U	U0		GM2	human	零散		body				
+001	62:3:5	ref_gap	U	U0		GM2	human	零散		body				
+001	62:4:9	group_abstain	U	U0		GM2	human	零散		body				kou:lift
+001	62:4:11	lib_sparse_dissent	U	U0		GM2	human	零散		body				基>暴
+001	62:6:2	ref_gap	U	U0		GM2	human	零散		body				
+001	62:6:3	ref_gap	U	U0		GM2	human	零散		body				
+001	62:6:4	ref_gap	U	U0		GM2	human	零散		body				
+001	62:6:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:獎
+001	62:8:7	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	63:1:3	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:技
+001	63:1:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:料
+001	63:6:8	group_abstain	U	U0		GM2	human	零散		body				kgc:lift
+001	63:6:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:遒
+001	63:9:2	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	63:9:8	ref_gap	U	U0		GM2	human	零散		body				
+001	64:1:11	ref_ocr_diff	U	U0		GM2	human	零散		body				語>誥
+001	64:2:10	ref_ocr_diff	U	U0		GM2	human	零散		body				禁>聲
+001	64:6:7	group_abstain	U	U0		GM2	human	零散		body				zy:lift
+001	64:8:2	ref_ocr_diff	U	U0		GM2	human	零散		body				嚴>巖
+001	65:1:10	ref_ocr_diff	U	U0		GM2	human	零散		body				語>誥
+001	65:3:8	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:面
+001	65:5:6	ref_ocr_diff	U	U0		GM2	human	零散		body				儉>楊
+001	65:5:7	ref_ocr_diff	U	U0		GM2	human	零散		body				者>省
+001	65:5:8	lib_sparse_dissent	U	U0		GM2	human	零散		body				頃>垣
+001	65:5:17	group_abstain	U	U0		GM2	human	零散		body				yt:lift
+001	65:7:10	ref_ocr_diff	U	U0		GM2	human	零散		body				龍>蘭
+001	65:7:15	ref_ocr_diff	U	U0		GM2	human	零散		body				利>科
+001	65:8:18	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:賴
+001	65:9:11	ref_gap	U	U0		GM2	human	零散		body				
+001	66:1:10	ref_ocr_diff	U	U0		GM2	human	零散		body				語>誥
+001	66:5:8	group_abstain	U	U0		GM2	human	零散		body				jys:review
+001	66:6:3	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	66:6:4	group_abstain	U	U0		GM2	human	零散		body				guanm:lift
+001	66:7:3	group_abstain	U	U0		GM2	human	零散		body				guanm:lift
+001	66:9:15	ref_ocr_diff	U	U0		GM2	human	零散		body				安>宐
+001	67:3:18	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	68:1:12	lib_sparse_dissent	U	U0		GM2	human	零散		body				紅>虹
+001	68:2:17	ref_ocr_diff	U	U0		GM2	human	零散		body				俊>伊
+001	68:2:18	lib_unrecognized	U	U0		GM2	human	零散		body				lib_diff:奮
+001	68:2:19	lib_sparse_dissent	U	U0		GM2	human	零散		body				跡>幟
+001	68:3:4	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	68:3:19	ref_ocr_diff	U	U0		GM2	human	零散		body				典>興
+001	68:8:12	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	69:3:18	ref_ocr_diff	U	U0		GM2	human	零散		body				宣>宐
+001	69:5:9	lib_sparse_dissent	U	U0		GM2	human	零散		body				闕>間
+001	69:8:6	hard_pair	U	U0		GM2	human	零散		body				已
+001	69:8:9	ref_ocr_diff	U	U0		GM2	human	零散		body				守>省
+001	69:8:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:紵
+001	70:2:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:殉
+001	70:3:20	variant_pair	U	U0		GM2	human	零散		body				勲/勳
+001	70:4:5	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	70:4:20	lib_sparse_dissent	U	U0		GM2	human	零散		body				爵>爾
+001	70:5:11	lib_sparse_dissent	U	U0		GM2	human	零散		body				永>末
+001	71:1:3	ref_ocr_diff	U	U0		GM2	human	零散		body				懿>騖
+001	71:3:11	ref_ocr_diff	U	U0		GM2	human	零散		body				宏>宐
+001	72:3:14	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	72:7:11	lib_sparse_dissent	U	U0		GM2	human	零散		body				懼>權
+001	72:7:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:頓
+001	73:2:2	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:閭
+001	73:3:13	lib_missing	U	U0		GM2	human	零散		body				all_zero:阨
+001	73:5:18	garble_gate	U	U0		GM2	human	零散		body				
+001	73:7:15	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	74:4:13	lib_sparse_dissent	U	U0		GM2	human	零散		body				眷>卷
+001	74:6:8	ref_ocr_diff	U	U0		GM2	human	零散		body				順>願
+001	75:4:13	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	75:5:3	lib_sparse_dissent	U	U0		GM2	human	零散		body				懼>權
+001	75:8:10	ref_ocr_diff	U	U0		GM2	human	零散		body				則>期
+001	75:9:6	ref_ocr_diff	U	U0		GM2	human	零散		body				寧>軍
+001	76:2:15	ref_gap	U	U0		GM2	human	零散		body				
+001	76:4:8	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	76:9:2	ref_gap	U	U0		GM2	human	零散		body				
+001	76:9:8	ref_gap	U	U0		GM2	human	零散		body				
+001	77:1:10	seg_defect	U	U0		GM2	human	整页		body				clipped
+001	77:2:3	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:2:4	seg_defect	U	U0		GM2	human	整页		body				clipped
+001	77:2:13	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:2:14	seg_defect	U	U0		GM2	human	整页		body				clipped
+001	77:2:15	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:2:17	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:2:18	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:3:3	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:3:4	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:3:5	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:3:10	lib_missing	U	U0		GM2	human	整页		body				all_zero:涿
+001	77:3:13	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:3:14	seg_page_unaligned	U	U0		GM2	human	整页		body				01:77
+001	77:5:5	lib_missing	U	U0		GM2	human	整页		body				all_zero:澗
+001	78:5:5	lib_missing	U	U0		GM2	human	零散		body				all_zero:泖
+001	78:5:10	lib_missing	U	U0		GM2	human	零散		body				all_zero:泖
+001	78:6:9	lib_missing	U	U0		GM2	human	零散		body				all_zero:泖
+001	78:6:20	lib_missing	U	U0		GM2	human	零散		body				all_zero:泖
+001	78:7:7	lib_missing	U	U0		GM2	human	零散		body				all_zero:泖
+001	78:8:8	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:徼
+001	79:1:2	ref_gap	U	U0		GM2	human	零散		body				
+001	79:1:4	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	79:2:9	lib_missing	U	U0		GM2	human	零散		body				all_zero:澗
+001	79:4:8	lib_missing	U	U0		GM2	human	零散		body				all_zero:軋
+001	79:5:19	ref_gap	U	U0		GM2	human	零散		body				
+001	79:6:2	group_abstain	U	U0		GM2	human	零散		body				men:lift
+001	79:6:9	lib_sparse_dissent	U	U0		GM2	human	零散		body				纓>攬
+001	79:7:13	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:詵
+001	79:7:14	ref_ocr_diff	U	U0		GM2	human	零散		body				實>賞
+001	80:1:2	ref_gap	U	U0		GM2	human	零散		body				
+001	80:1:3	ref_gap	U	U0		GM2	human	零散		body				
+001	80:1:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:瀾
+001	80:2:18	lib_missing	U	U0		GM2	human	零散		body				all_zero:嚙
+001	80:4:17	ref_gap	U	U0		GM2	human	零散		body				
+001	80:4:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:鼈
+001	80:6:16	lib_missing	U	U0		GM2	human	零散		body				all_zero:暖
+001	80:7:6	lib_missing	U	U0		GM2	human	零散		body				all_zero:鶯
+001	80:7:19	ref_gap	U	U0		GM2	human	零散		body				
+001	80:8:2	ref_gap	U	U0		GM2	human	零散		body				
+001	80:8:3	ref_gap	U	U0		GM2	human	零散		body				
+001	80:9:19	ref_gap	U	U0		GM2	human	零散		body				
+001	81:1:8	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:層
+001	81:3:2	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:冀
+001	81:4:2	lib_sparse_dissent	U	U0		GM2	human	零散		body				胼>服
+001	81:6:2	lib_sparse_dissent	U	U0		GM2	human	零散		body				肩>府
+001	81:7:17	lib_sparse_dissent	U	U0		GM2	human	零散		body				鯨>鮪
+001	82:4:9	lib_missing	U	U0		GM2	human	零散		body				all_zero:澗
+001	82:6:20	seg_defect	U	U0		GM2	human	零散		body				clipped
+001	82:9:18	ref_gap	U	U0		GM2	human	零散		body				
+001	82:9:19	ref_gap	U	U0		GM2	human	零散		body				
+001	82:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	83:2:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	84:1:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	84:2:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:迴
+001	84:3:2	ref_gap	U	U0		GM2	human	零散		body				
+001	84:3:14	lib_sparse_dissent	U	U0		GM2	human	零散		body				虞>簇
+001	84:6:12	ref_ocr_diff	U	U0		GM2	human	零散		body				堂>笙
+001	84:6:13	lib_missing	U	U0		GM2	human	零散		body				all_zero:鑼
+001	84:7:9	ref_gap	U	U0		GM2	human	整列		body				
+001	84:7:10	ref_gap	U	U0		GM2	human	整列		body				
+001	84:7:12	lib_missing	U	U0		GM2	human	整列		body				own_zero_borrow_has:磬
+001	84:7:17	lib_missing	U	U0		GM2	human	整列		body				own_zero_borrow_has:填
+001	84:7:18	lib_missing	U	U0		GM2	human	整列		body				all_zero:篴
+001	84:9:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:祝
+001	85:4:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:頹
+001	85:7:6	group_abstain	U	U0		GM2	human	零散		body				guanm:lift
+001	85:9:13	lib_sparse_dissent	U	U0		GM2	human	零散		body				豈>置
+001	86:3:4	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	86:8:9	group_abstain	U	U0		GM2	human	零散		body				zy:joint
+001	86:9:10	hard_pair	U	U0		GM2	human	零散		body				已
+001	87:2:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	87:2:16	hard_pair	U	U0		GM2	human	零散		body				已
+001	87:4:13	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	87:6:2	lib_missing	U	U0		GM2	human	零散		body				all_zero:鸞
+001	87:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	88:1:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:飾
+001	88:2:5	lib_sparse_dissent	U	U0		GM2	human	零散		body				耀>懼
+001	88:2:11	ref_ocr_diff	U	U0		GM2	human	零散		body				思>患
+001	88:3:5	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	88:7:18	hard_pair	U	U0		GM2	human	零散		body				日/曰
+001	88:8:19	lib_sparse_dissent	U	U0		GM2	human	零散		body				案>秉
+001	88:9:5	ref_gap	U	U0		GM2	human	零散		body				
+001	88:9:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:涵
+001	88:9:19	ref_gap	U	U0		GM2	human	零散		body				
+001	88:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	89:3:11	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	89:7:20	ref_ocr_diff	U	U0		GM2	human	零散		body				夙>夏
+001	90:2:18	lib_missing	U	U0		GM2	human	零散		body				all_zero:盼
+001	90:4:19	lib_missing	U	U0		GM2	human	零散		body				all_zero:嬉
+001	90:5:12	lib_missing	U	U0		GM2	human	零散		body				all_zero:睡
+001	90:6:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:醴
+001	90:7:15	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:零
+001	90:8:13	lib_sparse_dissent	U	U0		GM2	human	零散		body				郎>鄙
+001	90:9:12	ref_gap	U	U0		GM2	human	零散		body				
+001	90:9:13	ref_gap	U	U0		GM2	human	零散		body				
+001	91:1:19	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:羨
+001	91:2:20	ref_ocr_diff	U	U0		GM2	human	零散		body				軒>軿
+001	91:3:4	near_form_guard	U	U0		GM2	human	零散		body				未/末
+001	92:1:11	ref_ocr_diff	U	U0		GM2	human	零散		body				歷>屋
+001	92:6:8	ref_ocr_diff	U	U0		GM2	human	零散		body				矧>罰
+001	92:6:12	ref_ocr_diff	U	U0		GM2	human	零散		body				飲>歛
+001	92:8:14	ref_ocr_diff	U	U0		GM2	human	零散		body				家>軍
+001	93:1:16	ref_ocr_diff	U	U0		GM2	human	零散		body				講>請
+001	93:3:12	lib_sparse_dissent	U	U0		GM2	human	零散		body				祚>祐
+001	93:9:3	lib_sparse_dissent	U	U0		GM2	human	零散		body				藜>藂
+001	94:3:11	group_abstain	U	U0		GM2	human	零散		body				rm:lift
+001	94:4:14	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:杳
+001	94:5:3	lib_missing	U	U0		GM2	human	零散		body				all_zero:旖
+001	94:6:14	ref_ocr_diff	U	U0		GM2	human	零散		body				廣>清
+001	94:6:15	lib_sparse_dissent	U	U0		GM2	human	零散		body				敞>娛
+001	94:6:17	ref_ocr_diff	U	U0		GM2	human	零散		body				西>四
+001	94:8:15	ref_ocr_diff	U	U0		GM2	human	零散		body				垂>益
+001	94:8:20	lib_missing	U	U0		GM2	human	零散		body				all_zero:媽
+001	95:2:6	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:巒
+001	95:2:7	lib_sparse_dissent	U	U0		GM2	human	零散		body				徑>怪
+001	95:2:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:迴
+001	95:2:13	group_abstain	U	U0		GM2	human	零散		body				chuo:lift
+001	95:4:7	ref_ocr_diff	U	U0		GM2	human	零散		body				興>輿
+001	95:4:20	ref_ocr_diff	U	U0		GM2	human	零散		body				易>曷
+001	95:6:17	group_abstain	U	U0		GM2	human	零散		body				xuan:lift
+001	95:7:17	lib_sparse_dissent	U	U0		GM2	human	零散		body				膏>裔
+001	95:8:11	lib_missing	U	U0		GM2	human	零散		body				all_zero:鷗
+001	95:8:17	ref_ocr_diff	U	U0		GM2	human	零散		body				貢>賁
+001	95:9:7	ref_ocr_diff	U	U0		GM2	human	零散		body				真>藝
+001	96:4:14	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	96:6:14	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:飭
+001	96:6:19	group_abstain	U	U0		GM2	human	零散		body				chuo:lift
+001	96:9:20	group_abstain	U	U0		GM2	human	零散		body				yt:lift
+001	97:1:6	ref_ocr_diff	U	U0		GM2	human	零散		body				縣>黟
+001	97:1:18	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	97:2:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:繇
+001	97:2:17	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:戩
+001	97:3:5	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	97:3:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	97:4:17	lib_sparse_dissent	U	U0		GM2	human	零散		body				礪>碣
+001	97:4:18	lib_sparse_dissent	U	U0		GM2	human	零散		body				礪>禍
+001	97:6:11	lib_missing	U	U0		GM2	human	零散		body				all_zero:盼
+001	97:6:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:睠
+001	97:6:15	group_abstain	U	U0		GM2	human	零散		body				kou:lift
+001	97:8:5	near_form_guard	U	U0		GM2	human	零散		body				固/面
+001	98:1:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:跋
+001	98:2:7	lib_missing	U	U0		GM2	human	零散		body				all_zero:潯
+001	98:3:6	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	98:4:9	near_form_guard	U	U0		GM2	human	零散		body				西/面
+001	98:5:17	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:瞻
+001	98:6:20	group_abstain	U	U0		GM2	human	零散		body				rm:joint
+001	98:7:10	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	99:3:17	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	99:4:18	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	99:6:12	group_abstain	U	U0		GM2	human	零散		body				rm:joint
+001	99:9:8	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:皐
+001	99:9:15	lib_missing	U	U0		GM2	human	零散		body				all_zero:粵
+001	99:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	100:1:1	ref_gap	U	U0		GM2	human	整页		body				
+001	100:1:9	ref_gap	U	U0		GM2	human	整页		body				
+001	100:1:13	ref_gap	U	U0		GM2	human	整页		body				
+001	100:1:15	ref_ocr_diff	U	U0		GM2	human	整页		body				畧>譽
+001	100:2:3	hard_pair	U	U0		GM2	human	整页		body				日/曰
+001	100:2:7	seg_col_unaligned	U	U0		GM2	human	整页		body				01:100:2
+001	100:2:9	seg_col_unaligned	U	U0		GM2	human	整页		body				01:100:2
+001	100:2:13	seg_col_unaligned	U	U0		GM2	human	整页		body				01:100:2
+001	100:2:15	seg_col_unaligned	U	U0		GM2	human	整页		body				01:100:2
+001	100:2:17	seg_col_unaligned	U	U0		GM2	human	整页		body				01:100:2
+001	100:3:8	ref_ocr_diff	U	U0		GM2	human	整页		body				丘>扈
+001	100:3:19	ref_ocr_diff	U	U0		GM2	human	整页		body				凡>允
+001	100:4:11	lib_missing	U	U0		GM2	human	整页		body				all_zero:蘊
+001	100:4:12	lib_missing	U	U0		GM2	human	整页		body				all_zero:蘊
+001	100:4:17	lib_sparse_dissent	U	U0		GM2	human	整页		body				歛>歙
+001	100:7:5	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:憇
+001	100:7:8	ref_ocr_diff	U	U0		GM2	human	整页		body				書>垂
+001	100:7:16	lib_sparse_dissent	U	U0		GM2	human	整页		body				髯>髻
+001	100:8:5	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:瞻
+001	101:2:2	lib_sparse_dissent	U	U0		GM2	human	零散		body				爰>美
+001	101:2:6	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:墉
+001	101:3:5	lib_sparse_dissent	U	U0		GM2	human	零散		body				儻>俊
+001	101:3:12	lib_sparse_dissent	U	U0		GM2	human	零散		body				儻>懷
+001	101:4:11	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	101:6:9	ref_ocr_diff	U	U0		GM2	human	零散		body				御>翫
+001	102:1:5	group_abstain	U	U0		GM2	human	零散		body				rm:joint
+001	102:1:10	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:箴
+001	102:2:2	hard_pair	U	U0		GM2	human	零散		body				日/曰
+001	102:2:6	lib_sparse_dissent	U	U0		GM2	human	零散		body				堯>妾
+001	102:2:7	lib_sparse_dissent	U	U0		GM2	human	零散		body				堯>楚
+001	102:4:8	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:賴
+001	102:7:4	ref_ocr_diff	U	U0		GM2	human	零散		body				嚴>巖
+001	102:9:2	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:幼
+001	103:7:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:憑
+001	103:8:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	103:9:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:瀨
+001	104:1:17	lib_sparse_dissent	U	U0		GM2	human	整页		body				醉>酌
+001	104:1:19	ref_ocr_diff	U	U0		GM2	human	整页		body				凡>几
+001	104:3:11	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	104:3:12	ref_ocr_diff	U	U0		GM2	human	整页		body				巖>𡽪
+001	104:5:4	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	104:5:12	ref_ocr_diff	U	U0		GM2	human	整页		body				塵>靡
+001	104:6:3	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	104:6:8	ref_ocr_diff	U	U0		GM2	human	整页		body				凡>九
+001	104:6:11	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	104:7:10	ref_gap	U	U0		GM2	human	整页		body				
+001	104:7:11	ref_gap	U	U0		GM2	human	整页		body				
+001	104:7:15	lib_sparse_dissent	U	U0		GM2	human	整页		body				青>背
+001	104:8:16	ref_ocr_diff	U	U0		GM2	human	整页		body				盤>倣
+001	104:8:20	ref_ocr_diff	U	U0		GM2	human	整页		body				巖>靳
+001	104:9:14	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	104:9:20	ref_gap	U	U0		GM2	human	整页		body				
+001	105:2:1	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	105:2:9	lib_sparse_dissent	U	U0		GM2	human	整页		body				鍾>鈿
+001	105:3:8	seg_col_unaligned	U	U0		GM2	human	整页		body				01:105:3
+001	105:3:9	seg_col_unaligned	U	U0		GM2	human	整页		body				01:105:3
+001	105:3:10	seg_col_unaligned	U	U0		GM2	human	整页		body				01:105:3
+001	105:3:11	seg_col_unaligned	U	U0		GM2	human	整页		body				01:105:3
+001	105:3:12	seg_col_unaligned	U	U0		GM2	human	整页		body				01:105:3
+001	105:3:15	lib_sparse_dissent	U	U0		GM2	human	整页		body				薪>菊
+001	105:3:20	lib_missing	U	U0		GM2	human	整页		body				all_zero:魑
+001	105:4:1	lib_missing	U	U0		GM2	human	整页		body				all_zero:魍
+001	105:4:19	group_abstain	U	U0		GM2	human	整页		body				guanm:lift
+001	105:5:1	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	105:5:12	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:瘴
+001	105:5:13	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:飭
+001	105:6:3	lib_sparse_dissent	U	U0		GM2	human	整页		body				崑>駱
+001	105:6:4	ref_ocr_diff	U	U0		GM2	human	整页		body				巖>覺
+001	105:6:7	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:鑿
+001	105:6:9	lib_missing	U	U0		GM2	human	整页		body				all_zero:瀝
+001	105:7:15	lib_missing	U	U0		GM2	human	整页		body				own_zero_borrow_has:曰
+001	105:7:20	ref_ocr_diff	U	U0		GM2	human	整页		body				虛>盧
+001	106:4:18	lib_sparse_dissent	U	U0		GM2	human	零散		body				調>講
+001	106:5:15	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:諠
+001	106:6:13	ref_ocr_diff	U	U0		GM2	human	零散		body				數>鞍
+001	106:6:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:瓊
+001	106:6:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:綵
+001	106:7:19	ref_ocr_diff	U	U0		GM2	human	零散		body				燕>葱
+001	106:8:19	ref_ocr_diff	U	U0		GM2	human	零散		body				容>宻
+001	106:9:17	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:羨
+001	106:9:20	ref_gap	U	U0		GM2	human	零散		body				
+001	107:3:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	107:3:15	lib_sparse_dissent	U	U0		GM2	human	零散		body				饌>續
+001	107:3:17	ref_gap	U	U0		GM2	human	零散		body				
+001	107:3:19	ref_ocr_diff	U	U0		GM2	human	零散		body				談>渡
+001	107:4:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:厄
+001	107:4:13	lib_sparse_dissent	U	U0		GM2	human	零散		body				醉>辭
+001	107:4:15	lib_missing	U	U0		GM2	human	零散		body				all_zero:槐
+001	107:4:19	lib_missing	U	U0		GM2	human	零散		body				all_zero:眠
+001	107:5:5	hard_pair	U	U0		GM2	human	零散		body				日/曰
+001	107:5:20	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	107:6:4	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:迓
+001	107:7:5	group_abstain	U	U0		GM2	human	零散		body				rm:joint
+001	107:9:15	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:艷
+001	108:2:9	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:蜜
+001	108:4:15	lib_missing	U	U0		GM2	human	零散		body				all_zero:燠
+001	108:6:6	lib_sparse_dissent	U	U0		GM2	human	零散		body				逆>遲
+001	108:8:14	ref_ocr_diff	U	U0		GM2	human	零散		body				愚>恐
+001	109:1:1	ref_gap	U	U0		GM2	human	零散		body				
+001	109:1:2	ref_gap	U	U0		GM2	human	零散		body				
+001	109:6:1	group_abstain	U	U0		GM2	human	零散		body				jys:review
+001	109:6:6	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	109:8:1	lib_sparse_dissent	U	U0		GM2	human	零散		body				阿>河
+001	110:2:5	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	110:2:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	110:3:7	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	110:4:1	seg_defect	U	U0		GM2	human	零散		body				bleed
+001	110:4:12	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:曰
+001	110:6:15	ref_gap	U	U0		GM2	human	零散		body				
+001	110:7:5	hard_pair	U	U0		GM2	human	零散		body				日/曰
+001	110:7:14	ref_ocr_diff	U	U0		GM2	human	零散		body				振>操
+001	110:7:15	ref_ocr_diff	U	U0		GM2	human	零散		body				振>履
+001	111:1:4	ref_ocr_diff	U	U0		GM2	human	零散		body				靜>鄙
+001	111:1:15	ref_gap	U	U0		GM2	human	零散		body				
+001	111:1:17	ref_gap	U	U0		GM2	human	零散		body				
+001	111:2:16	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:修
+001	111:3:20	lib_missing	U	U0		GM2	human	零散		body				all_zero:醕
+001	111:5:8	hard_pair	U	U0		GM2	human	零散		body				已
+001	111:5:10	hard_pair	U	U0		GM2	human	零散		body				已
+001	111:6:2	hard_pair	U	U0		GM2	human	零散		body				已
+001	111:7:2	ref_ocr_diff	U	U0		GM2	human	零散		body				遵>邊
+001	111:7:4	ref_gap	U	U0		GM2	human	零散		body				
+001	112:3:7	lib_missing	U	U0		GM2	human	零散		body				all_zero:駒
+001	112:4:9	hard_pair	U	U0		GM2	human	零散		body				日/曰
+001	112:5:3	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:羨
+001	112:9:18	lib_missing	U	U0		GM2	human	零散		body				own_zero_borrow_has:箴
+001	113:1:-2	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:1	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:3	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:6	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:7	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:8	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:1:9	seg_col_unaligned	U	U0		GM2	human	整列		body				01:113:1
+001	113:8:8	seg_defect	U	U0		GM2	human	零散		body				bleed

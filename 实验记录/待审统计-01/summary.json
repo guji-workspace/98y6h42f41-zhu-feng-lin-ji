@@ -1,0 +1,71 @@
+{
+ "n": 596,
+ "n_nonbody": 0,
+ "by_reason": {
+  "ref_gap": 75,
+  "seg_defect": 24,
+  "ref_ocr_diff": 120,
+  "seg_col_unaligned": 22,
+  "lib_missing": 162,
+  "group_abstain": 39,
+  "hard_pair": 17,
+  "seg_page_unaligned": 45,
+  "lib_sparse_dissent": 69,
+  "variant_pair": 15,
+  "group_ref_dissent": 1,
+  "near_form_guard": 4,
+  "lib_unrecognized": 2,
+  "garble_gate": 1
+ },
+ "by_src": {},
+ "by_sub": {
+  "U0": 596
+ },
+ "keys": {
+  "U0": {
+   "—": 596
+  }
+ },
+ "conc": {
+  "U": {
+   "零散": 479,
+   "整列": 29,
+   "整页": 88
+  }
+ },
+ "vols": {
+  "001": {
+   "n": 596,
+   "cells": null,
+   "rate": null,
+   "by_big": {
+    "U": 596
+   },
+   "rev": "001-r0",
+   "cv": null,
+   "at": null,
+   "slim": 596,
+   "n_nonbody": 0
+  }
+ },
+ "signals": [
+  {
+   "sig": "真生僻字多（第一次进库）",
+   "n": 162,
+   "share": 0.27181208053691275,
+   "why": "整理本字在库里已有 ≥30 例的占 0%；",
+   "todo": "第一次进库原则上人裁：走成批审页，审完即入库",
+   "tier": "C",
+   "who": "人审"
+  },
+  {
+   "sig": "其他极难形近",
+   "n": 17,
+   "share": 0.028523489932885907,
+   "why": "`hard_pair`",
+   "todo": "近形决胜 near_shape 等（CV4 定开不开）",
+   "tier": "B",
+   "who": "CV4"
+  }
+ ]
+}
