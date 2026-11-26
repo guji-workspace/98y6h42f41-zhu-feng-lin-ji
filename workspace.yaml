@@ -1,7 +1,7 @@
 # 控制台 URL 上露出来的工作区 id（`/<ws>/<book>/step/...`）。工作区 id＝book ID（2026-10-30 起规矩）。
 id: 98y6h42f41
 
-# 借库（2026-11-26 实验用，比较结论出来后再定）：先借全唐文 human+auto 取得对位锚点
+# 借库：全唐文 human+auto（2026-11-26 借库与匹配器比较定，见 实验记录/；史記、殿本锚不上）
 glyph_lib:
   borrow:
     - {from: 995ejelvk0, scope: human+auto}
