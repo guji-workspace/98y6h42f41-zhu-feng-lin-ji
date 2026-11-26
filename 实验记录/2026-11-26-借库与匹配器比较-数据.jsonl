@@ -1,0 +1,11 @@
+{"exp": "qtw_prod", "n": 2728, "cover": 0.9718, "top1": 0.8491, "top5": 0.9144, "same": 0.011, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 214, "pending_rate": 0.0759}
+{"exp": "shiji_prod", "n": 2728, "cover": 0.8405, "top1": 0.5238, "top5": 0.6882, "same": 0.0103, "same_wrong": 0.1429, "same_wrong_n": 4, "cells": 2820, "pending": 2699, "pending_rate": 0.9571}
+{"exp": "siku_prod", "n": 2728, "cover": 0.7907, "top1": 0.7316, "top5": 0.8725, "same": 0.07, "same_wrong": 0.0419, "same_wrong_n": 8, "cells": 2820, "pending": 1878, "pending_rate": 0.666}
+{"exp": "qtwshiji_prod", "n": 2728, "cover": 0.9809, "top1": 0.8389, "top5": 0.9077, "same": 0.0136, "same_wrong": 0.0811, "same_wrong_n": 3, "cells": 2820, "pending": 216, "pending_rate": 0.0766}
+{"exp": "qtw_basefuse", "n": 2728, "cover": 0.9718, "top1": 0.9015, "top5": 0.9159, "same": 0.0117, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 166, "pending_rate": 0.0589}
+{"exp": "shiji_basefuse", "n": 2728, "cover": 0.8405, "top1": 0.6729, "top5": 0.7152, "same": 0.0073, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 2385, "pending_rate": 0.8457}
+{"exp": "siku_basefuse", "n": 2728, "cover": 0.7907, "top1": 0.8493, "top5": 0.8809, "same": 0.0572, "same_wrong": 0.0064, "same_wrong_n": 1, "cells": 2820, "pending": 1191, "pending_rate": 0.4223}
+{"exp": "qtwshiji_basefuse", "n": 2728, "cover": 0.9809, "top1": 0.8942, "top5": 0.9114, "same": 0.0125, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 160, "pending_rate": 0.0567}
+{"exp": "qtw_base", "n": 2728, "cover": 0.9718, "top1": 0.9019, "top5": 0.9159, "same": 0.1004, "same_wrong": 0.0036, "same_wrong_n": 1, "cells": 2820, "pending": 162, "pending_rate": 0.0574}
+{"exp": "qtw_qtwv2fuse", "n": 2728, "cover": 0.9718, "top1": 0.8936, "top5": 0.9166, "same": 0.0092, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 172, "pending_rate": 0.061}
+{"exp": "qtw_shijifuse", "n": 2728, "cover": 0.9718, "top1": 0.8914, "top5": 0.9174, "same": 0.0103, "same_wrong": 0.0, "same_wrong_n": 0, "cells": 2820, "pending": 176, "pending_rate": 0.0624}
