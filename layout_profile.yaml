@@ -1,0 +1,18 @@
+# 朱楓林集（98y6h42f41）版式档案：这本书「长什么样」，只写事实不写开关。2026-11-26 1b 首次量（01 册 dev_set 叠图）。
+layout_profile:
+  script: 刻本                  # 明萬曆四十四年歙邑朱氏刻本，宋体字，字形规整
+  image: 一图一半叶              # CADAL 扫描 1900×3000 二值；奇页版心在左、偶页版心在右（只露半个版心）
+  grid: fixed                   # 九行二十字，界行清楚（细线，有断续）
+  slots_per_col: 20
+  cols_per_page: 9
+  frame: 四周單邊               # 粗外框
+  banxin: 白口单鱼尾；书口上「朱楓林集」、中「卷之N」、下叶码
+  jiazhu: 未见双行小注（01 册）；有单行小字附注（如「并序」）
+  head_raise: true              # 誥、詔、表多抬头（高皇、聖、朕前空格），空格按格切
+  big_char_pages: 01 册 2–9 页序文大字，六行十三字，正文管线按九列切会把一列劈成两列（待定）
+  toc: 01 册 10–36 页目錄，字疏，正文管线切得对
+  seals: 01 册序末第 9 页两方藏印
+  ink_blots: 01:104、02:18 有墨块，正文管线当一格
+  page_kinds: [cover, body]     # 每册首页书衣
+  reference: 明別集叢刊本 OCR 清理稿，不分行，reference_trust high
+  seg_set: 缺省（keben_body_v2），01 册 dev_set 50/51/86/104 叠图列线落在字缝、版框包住全文
