@@ -13,12 +13,12 @@ source:
   chosen_by: Sheldon
   chosen_on: 2026-11-25
   note: "Commons 另有 CADAL02061025–028（4 册 419 页）同版本另一部，未取"
-reference: {status: pending, candidates: ["ctext res=104161（未校 OCR）", "明别集丛刊第一册版面 OCR（用户本地，仅参考）"]}
+reference: {source: "明别集丛刊第一辑第一册版面 OCR（bbox.html）清理稿", file: zfl_mbj_ocr.txt, line_is_column: false, reference_trust: high, chars: 59234, accuracy: "3 页抽校约 98%（347 字错 7，形近字）", decided_by: Sheldon, on: 2026-11-26, tool: tools/clean_mbj_ocr.py, staged: "项目文件 mbj/98y6h42f41-staging/（corpus/、config/book_defaults.yaml），db init 时放进工作区"}
 steps:
   1a:
     book_index: {status: done, pr: "open-guji/book-index#3042"}
     ws_repo: {status: done}
     commons_sha1: {status: done, note: "5 件 sha1 与 Commons 一致"}
     source_register: {status: done, on: 2026-11-26, tables: "R2 98y6h42f41/01–05 r001（113/80/84/62/75 页，书衣保留）", note: "云会话直连 Commons 429，源件由用户浏览器下载后核 sha1 登记"}
-    reference: {status: pending}
+    reference: {status: done, note: "语料与书级配置已备好，待 1b 写册 yaml 后随 db init 进中心库"}
     db_init: {status: pending}
