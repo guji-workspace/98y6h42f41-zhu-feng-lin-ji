@@ -5,7 +5,7 @@
 | book-index 条目 | [`98y6h42f41`](https://www.kaiyuanguji.com/book-index?id=98y6h42f41)（`Book/f/4/1/98y6h42f41-朱楓林集明萬曆四十四年歙邑朱氏刻本.json`）；作品 Work `d59f2nk861hf`（明朱升撰） |
 | 底本 | 北京大學圖書館藏，CADAL 掃描（二值、無水印），Commons `CADAL02039211`–`CADAL02039215`《朱楓林集（一）–（五）》，DjVu |
 | 原图根 | Commons 5 件，共 414 页（113／80／84／62／75），sha1 见 book-index 条目 `resources[commons].metadata.sha1` |
-| 册 | 01–05＝Commons（一）–（五）一一对应；页表 R2 `98y6h42f41/<册>`（待登记） |
+| 册 | 01–05＝Commons（一）–（五）一一对应；页表 R2 `98y6h42f41/<册>` r001（2026-11-26 登记，书衣保留） |
 | 工作区 id | `98y6h42f41`（`workspace.yaml`，同 book ID） |
 | 所属项目 | 明别集（明別集叢刊第一輯第一冊第 1–110 页所收即此版本） |
 
