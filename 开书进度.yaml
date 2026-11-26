@@ -21,9 +21,9 @@ steps:
     commons_sha1: {status: done, note: "5 件 sha1 与 Commons 一致"}
     source_register: {status: done, on: 2026-11-26, tables: "R2 98y6h42f41/01–05 r001（113/80/84/62/75 页，书衣保留）", note: "云会话直连 Commons 429，源件由用户浏览器下载后核 sha1 登记"}
     reference: {status: done, note: "语料与书级配置已备好，待 1b 写册 yaml 后随 db init 进中心库"}
-    db_init: {status: pending, note: "books/01–05.yaml、config/book_defaults.yaml、corpus/zfl_mbj_ocr.txt 已在本地工作区备好（项目文件 mbj/98y6h42f41-staging/ 有副本），等用户授权 db push"}
+    db_init: {status: done, on: 2026-11-26, rev: 1498444, note: "db init + push（Sheldon 决定卡授权，只限本书）：workspaces 1、books 5、book_defaults、语料 zfl_mbj_ocr.txt；db status behind 0、unpushed []"}
   1b:
-    layout: {status: done, file: layout_profile.yaml, note: "九行二十字，缺省 keben_body_v2 可切；01 序 2–9 页大字待定"}
+    layout: {status: done, file: layout_profile.yaml, note: "九行二十字，缺省 keben_body_v2 可切；01 序 2–9 页大字六行十四字，册 yaml 按页列数 expected_cols_pages=6（用户 11-26 定要按页设）"}
     page_kinds: {status: done, note: "每册 p1 书衣（cover）"}
     dev_set: {status: done, note: "01:[50,51,86,104]，02–05:[20,40]，Step1–4 跑通，叠图在项目文件 mbj/98y6h42f41-overlays/"}
     checkup: {status: pending, note: "开书体检单、目标人审率待出"}

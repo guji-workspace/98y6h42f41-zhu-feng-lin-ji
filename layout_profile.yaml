@@ -9,7 +9,7 @@ layout_profile:
   banxin: 白口单鱼尾；书口上「朱楓林集」、中「卷之N」、下叶码
   jiazhu: 未见双行小注（01 册）；有单行小字附注（如「并序」）
   head_raise: true              # 誥、詔、表多抬头（高皇、聖、朕前空格），空格按格切
-  big_char_pages: 01 册 2–9 页序文大字，六行十三字，正文管线按九列切会把一列劈成两列（待定）
+  big_char_pages: 01 册 2–9 页序文大字，六行十四字；册 yaml params.border_detect／column_geometry.expected_cols_pages 设 6 后切对（按页每列字数 cv 还没有参数，row_segment 按字缝切，看图无误）
   toc: 01 册 10–36 页目錄，字疏，正文管线切得对
   seals: 01 册序末第 9 页两方藏印
   ink_blots: 01:104、02:18 有墨块，正文管线当一格
