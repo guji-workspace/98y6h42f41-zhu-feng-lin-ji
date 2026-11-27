@@ -1,0 +1,596 @@
+cell	pending_reason	category	owner	detail	char	ref	去向
+01:2:1:12	ref_gap	Category.REFERENCE	CV4		麤		留人审
+01:2:2:4	seg_defect	Category.SEGMENTATION	CV2	bleed	𡨥		算法再处理
+01:2:2:8	ref_ocr_diff	Category.MISMATCH	CV4	天>吞	吞	天	留人审
+01:2:6:12	ref_ocr_diff	Category.MISMATCH	CV4	闡>間	間	闡	留人审
+01:3:3:2	seg_defect	Category.SEGMENTATION	CV2	clipped	擇		算法再处理
+01:3:3:6	seg_col_unaligned	Category.SEGMENTATION	CV2	01:3:3	上		算法再处理
+01:3:3:7	seg_col_unaligned	Category.SEGMENTATION	CV2	01:3:3	旦		算法再处理
+01:3:3:9	seg_col_unaligned	Category.SEGMENTATION	CV2	01:3:3	舟		算法再处理
+01:3:3:10	seg_col_unaligned	Category.SEGMENTATION	CV2	01:3:3	寫		算法再处理
+01:3:3:11	seg_col_unaligned	Category.SEGMENTATION	CV2	01:3:3	刀		算法再处理
+01:3:4:2	seg_defect	Category.SEGMENTATION	CV2	clipped	一		算法再处理
+01:6:2:17	ref_gap	Category.REFERENCE	CV4		𫉬		留人审
+01:6:2:18	seg_defect	Category.SEGMENTATION	CV2	clipped	壘		算法再处理
+01:7:3:20	ref_ocr_diff	Category.MISMATCH	CV4	觀>覩	覩	觀	留人审
+01:8:1:14	lib_missing	Category.GLYPH_LIB	CV4	駿	駮	駿	留人审
+01:8:2:20	lib_missing	Category.GLYPH_LIB	CV4	詭	親	詭	留人审
+01:8:3:11	lib_missing	Category.GLYPH_LIB	CV4	櫟	標	櫟	留人审
+01:8:6:20	group_abstain	Category.GROUP	CV4	men:lift	闕		留人审
+01:9:1:10	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:9:4:18	lib_missing	Category.GLYPH_LIB	CV4	湊	洙	湊	留人审
+01:9:4:19	lib_missing	Category.GLYPH_LIB	CV4	頓	頭	頓	留人审
+01:9:5:2	seg_defect	Category.SEGMENTATION	CV2	clipped	鑄		算法再处理
+01:9:5:3	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	升		算法再处理
+01:9:5:10	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	西		算法再处理
+01:9:5:11	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	薩		算法再处理
+01:9:5:15	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	野		算法再处理
+01:9:5:16	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	到		算法再处理
+01:9:6:16b	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	卜		算法再处理
+01:9:6:17b	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	附		算法再处理
+01:9:6:18b	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	僩		算法再处理
+01:9:6:19b	seg_page_unaligned	Category.SEGMENTATION	CV2	01:9	晝		算法再处理
+01:11:6:10	lib_sparse_dissent	Category.GLYPH_LIB	CV3	遠>達	達	遠	留人审
+01:12:8:11	lib_missing	Category.GLYPH_LIB	CV4	瑛	臻	瑛	留人审
+01:13:7:10	ref_ocr_diff	Category.MISMATCH	CV4	魯>鄧	鄧	魯	留人审
+01:13:7:11	lib_missing	Category.GLYPH_LIB	CV4	愷	愈	愷	留人审
+01:14:1:15	ref_gap	Category.REFERENCE	CV4		息		留人审
+01:14:1:16	ref_gap	Category.REFERENCE	CV4		願		留人审
+01:14:1:20	group_abstain	Category.GROUP	CV4	sb:lift	卜		留人审
+01:14:6:3	ref_gap	Category.REFERENCE	CV4		之		留人审
+01:15:5:2	group_abstain	Category.GROUP	CV4	juan:lift	卷		留人审
+01:15:9:4	ref_ocr_diff	Category.MISMATCH	CV4	書>嘗	嘗	書	留人审
+01:16:7:9	lib_missing	Category.GLYPH_LIB	CV4	彙	藁	彙	留人审
+01:17:3:3	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:4:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:4:5	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	大		算法再处理
+01:17:5:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:6:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:6:5	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	性		算法再处理
+01:17:6:8	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	訓		算法再处理
+01:17:7:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:7:8	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	糴		算法再处理
+01:17:7:9	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	歌		算法再处理
+01:17:8:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	蹂		算法再处理
+01:17:8:5	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	唐		算法再处理
+01:17:8:7	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	華		算法再处理
+01:17:8:8	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	書		算法再处理
+01:17:8:10	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	邵		算法再处理
+01:17:9:2	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	卷		算法再处理
+01:17:9:3	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	之		算法再处理
+01:17:9:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:17	四		算法再处理
+01:18:9:5	ref_ocr_diff	Category.MISMATCH	CV4	黎>叅	叅	黎	留人审
+01:19:7:7	group_abstain	Category.GROUP	CV4	mb:lift	本		留人审
+01:19:9:7	lib_sparse_dissent	Category.GLYPH_LIB	CV3	襄>衷	衷	襄	留人审
+01:20:3:13	ref_ocr_diff	Category.MISMATCH	CV4	諸>諧	諧	諸	留人审
+01:22:9:9	group_abstain	Category.GROUP	CV4	rm:lift	目		留人审
+01:24:2:13	lib_missing	Category.GLYPH_LIB	CV4	莘	華	莘	留人审
+01:25:2:4	ref_gap	Category.REFERENCE	CV4		且		留人审
+01:25:2:5	ref_gap	Category.REFERENCE	CV4		堡		留人审
+01:25:9:8	seg_defect	Category.SEGMENTATION	CV2	bleed	圖		算法再处理
+01:25:9:9	seg_defect	Category.SEGMENTATION	CV2	clipped	澤		算法再处理
+01:27:1:4	ref_gap	Category.REFERENCE	CV4		酉		留人审
+01:28:1:11	ref_gap	Category.REFERENCE	CV4		戸		留人审
+01:28:2:14	ref_ocr_diff	Category.MISMATCH	CV4	作>竹	竹	作	留人审
+01:28:5:4	lib_sparse_dissent	Category.GLYPH_LIB	CV3	永>末	末	永	留人审
+01:28:8:20	seg_defect	Category.SEGMENTATION	CV2	bleed	豐		算法再处理
+01:29:2:2	group_abstain	Category.GROUP	CV4	juan:lift	卷		留人审
+01:29:8:4	lib_sparse_dissent	Category.GLYPH_LIB	CV3	崑>𦘕	𦘕	崑	留人审
+01:29:9:4	lib_sparse_dissent	Category.GLYPH_LIB	CV3	宿>扇	扇	宿	留人审
+01:29:9:5	lib_missing	Category.GLYPH_LIB	CV4	菴	𦘕	菴	留人审
+01:31:2:6	ref_ocr_diff	Category.MISMATCH	CV4	空>宐	宐	空	留人审
+01:31:4:7	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:31:6:8	ref_ocr_diff	Category.MISMATCH	CV4	勉>墊	墊	勉	留人审
+01:31:7:2	group_abstain	Category.GROUP	CV4	juan:lift	卷		留人审
+01:32:1:20	ref_ocr_diff	Category.MISMATCH	CV4	記>康	康	記	留人审
+01:32:5:7	ref_ocr_diff	Category.MISMATCH	CV4	卓>東	東	卓	留人审
+01:32:8:16	ref_gap	Category.REFERENCE	CV4		繼		留人审
+01:33:1:4	ref_gap	Category.REFERENCE	CV4		汪		留人审
+01:33:2:4	ref_gap	Category.REFERENCE	CV4		遺		留人审
+01:33:3:5	group_abstain	Category.GROUP	CV4	xjz:lift	齋		留人审
+01:33:6:5	ref_gap	Category.REFERENCE	CV4		楓		留人审
+01:33:7:6	ref_gap	Category.REFERENCE	CV4		績		留人审
+01:33:8:2	group_abstain	Category.GROUP	CV4	juan:lift	卷		留人审
+01:33:9:3	ref_gap	Category.REFERENCE	CV4		附		留人审
+01:33:9:4	ref_gap	Category.REFERENCE	CV4		錄		留人审
+01:34:9:18	ref_gap	Category.REFERENCE	CV4		跡		留人审
+01:36:3:5	ref_gap	Category.REFERENCE	CV4		晞		留人审
+01:36:4:5	ref_gap	Category.REFERENCE	CV4		晞		留人审
+01:36:5:5	ref_ocr_diff	Category.MISMATCH	CV4	陽>晞	晞	陽	留人审
+01:37:1:19	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	園		算法再处理
+01:37:1:20	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	鹽		算法再处理
+01:37:2:3	seg_defect	Category.SEGMENTATION	CV2	clipped	卜		算法再处理
+01:37:2:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	景		算法再处理
+01:37:2:14	seg_defect	Category.SEGMENTATION	CV2	clipped	會		算法再处理
+01:37:3:3	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	謝		算法再处理
+01:37:3:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	責		算法再处理
+01:37:3:5	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	晞		算法再处理
+01:37:3:13	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	于		算法再处理
+01:37:3:14	seg_page_unaligned	Category.SEGMENTATION	CV2	01:37	子		算法再处理
+01:38:2:16	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:38:4:17	lib_missing	Category.GLYPH_LIB	CV4	銷	鏘	銷	留人审
+01:38:5:2	variant_pair	Category.VARIANT	CV4	場/塲	塲	場	留人审
+01:38:8:12	ref_ocr_diff	Category.MISMATCH	CV4	耆>夷	夷	耆	留人审
+01:38:8:13	ref_ocr_diff	Category.MISMATCH	CV4	老>箋	箋	老	留人审
+01:38:9:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	育>靑	靑	育	留人审
+01:38:9:18	ref_ocr_diff	Category.MISMATCH	CV4	如>郊	郊	如	留人审
+01:39:1:4	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:39:2:3	group_abstain	Category.GROUP	CV4	men:lift	開	闕	留人审
+01:39:6:8	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:40:4:5	lib_sparse_dissent	Category.GLYPH_LIB	CV3	哲>耆	耆	哲	留人审
+01:40:7:10	ref_ocr_diff	Category.MISMATCH	CV4	者>耆	耆	者	留人审
+01:40:9:7	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:41:1:15	ref_gap	Category.REFERENCE	CV4		目		留人审
+01:41:1:20	ref_gap	Category.REFERENCE	CV4		蚩		留人审
+01:41:4:9	ref_ocr_diff	Category.MISMATCH	CV4	空>宐	宐	空	留人审
+01:41:4:20	ref_ocr_diff	Category.MISMATCH	CV4	節>師	師	節	留人审
+01:41:9:7	lib_missing	Category.GLYPH_LIB	CV4	款	歛	款	留人审
+01:42:5:20	lib_sparse_dissent	Category.GLYPH_LIB	CV3	衛>值	值	衛	留人审
+01:42:6:11	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:42:6:20	ref_ocr_diff	Category.MISMATCH	CV4	東>衆	衆	東	留人审
+01:42:9:4	ref_ocr_diff	Category.MISMATCH	CV4	輔>輸	輸	輔	留人审
+01:43:1:2	group_abstain	Category.GROUP	CV4	chuo:lift	適		留人审
+01:43:1:15	lib_missing	Category.GLYPH_LIB	CV4	翫	韜	翫	留人审
+01:43:3:4	lib_sparse_dissent	Category.GLYPH_LIB	CV3	毋>母	母	毋	留人审
+01:43:3:6	ref_gap	Category.REFERENCE	CV4		末		留人审
+01:43:4:1	ref_ocr_diff	Category.MISMATCH	CV4	吳>哭	哭	吳	留人审
+01:43:7:3	lib_missing	Category.GLYPH_LIB	CV4	頓	頭	頓	留人审
+01:43:7:17	variant_pair	Category.VARIANT	CV4	着/著	着	著	留人审
+01:44:3:10	ref_ocr_diff	Category.MISMATCH	CV4	著>蓍	蓍	著	留人审
+01:44:4:18	group_ref_dissent	Category.GROUP	CV4	men:lift	閱	閣	留人审
+01:44:6:5	ref_ocr_diff	Category.MISMATCH	CV4	督>觀	觀	督	留人审
+01:44:6:7	lib_sparse_dissent	Category.GLYPH_LIB	CV3	佐>值	值	佐	留人审
+01:44:7:4	ref_ocr_diff	Category.MISMATCH	CV4	矣>决	决	矣	留人审
+01:44:7:5	group_abstain	Category.GROUP	CV4	dt:lift	大		留人审
+01:44:7:18	hard_pair	Category.HARD_PAIR	CV4	已/巳	已	已	留人审
+01:44:8:7	ref_ocr_diff	Category.MISMATCH	CV4	涉>訪	訪	涉	留人审
+01:44:9:6	lib_sparse_dissent	Category.GLYPH_LIB	CV3	青>肯	肯	青	留人审
+01:44:9:7	lib_sparse_dissent	Category.GLYPH_LIB	CV3	岡>同	同	岡	留人审
+01:44:9:18	ref_ocr_diff	Category.MISMATCH	CV4	石>右	右	石	留人审
+01:45:1:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	啓>奮	奮	啓	留人审
+01:46:1:15	seg_defect	Category.SEGMENTATION	CV2	clipped	圍		算法再处理
+01:46:5:17	lib_missing	Category.GLYPH_LIB	CV4	黜	勲	黜	留人审
+01:46:8:6	lib_missing	Category.GLYPH_LIB	CV4	冀	曩	冀	留人审
+01:47:1:20	seg_defect	Category.SEGMENTATION	CV2	bleed	星	兵	算法再处理
+01:47:6:7	group_abstain	Category.GROUP	CV4	sui:lift	戲	歲	留人审
+01:47:8:10	ref_ocr_diff	Category.MISMATCH	CV4	留>軍	軍	留	留人审
+01:48:1:1	seg_defect	Category.SEGMENTATION	CV2	clipped	宇		算法再处理
+01:48:4:3	ref_ocr_diff	Category.MISMATCH	CV4	乎>孚	孚	乎	留人审
+01:48:6:5	ref_ocr_diff	Category.MISMATCH	CV4	上>土	土	上	留人审
+01:48:6:12	ref_ocr_diff	Category.MISMATCH	CV4	建>逮	逮	建	留人审
+01:48:7:1	lib_missing	Category.GLYPH_LIB	CV4	擎	事	擎	留人审
+01:49:3:7	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:49:4:6	lib_sparse_dissent	Category.GLYPH_LIB	CV3	尤>尢	尢	尤	留人审
+01:49:4:16	lib_missing	Category.GLYPH_LIB	CV4	譖	韜	譖	留人审
+01:49:8:17	ref_ocr_diff	Category.MISMATCH	CV4	信>鄂	鄂	信	留人审
+01:50:3:3	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:50:3:4	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:50:5:3	ref_ocr_diff	Category.MISMATCH	CV4	繼>祖	祖	繼	留人审
+01:50:6:1	lib_missing	Category.GLYPH_LIB	CV4	沫	沐	沫	留人审
+01:50:6:19	lib_missing	Category.GLYPH_LIB	CV4	恃	侍	恃	留人审
+01:50:7:3	variant_pair	Category.VARIANT	CV4	决/決	决	決	留人审
+01:51:6:6	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:51:6:8	lib_sparse_dissent	Category.GLYPH_LIB	CV3	尤>尢	尢	尤	留人审
+01:51:6:12	lib_missing	Category.GLYPH_LIB	CV4	獎	樊	獎	留人审
+01:51:8:1	lib_sparse_dissent	Category.GLYPH_LIB	CV3	肱>肌	肌	肱	留人审
+01:51:8:19	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:52:2:1	ref_ocr_diff	Category.MISMATCH	CV4	公>瓜	瓜	公	留人审
+01:52:8:12	ref_ocr_diff	Category.MISMATCH	CV4	題>廼	廼	題	留人审
+01:52:9:7	lib_missing	Category.GLYPH_LIB	CV4	猱	僚	猱	留人审
+01:53:1:14	near_form_guard	Category.NEAR_FORM	CV4	而/面	而	面	留人审
+01:53:3:20	ref_ocr_diff	Category.MISMATCH	CV4	余>今	今	余	留人审
+01:53:5:8	seg_defect	Category.SEGMENTATION	CV2	bleed	格		算法再处理
+01:53:7:11	ref_ocr_diff	Category.MISMATCH	CV4	服>股	股	服	留人审
+01:53:7:12	ref_ocr_diff	Category.MISMATCH	CV4	朕>肱	肱	朕	留人审
+01:53:8:10	ref_gap	Category.REFERENCE	CV4		登		留人审
+01:53:9:9	lib_missing	Category.GLYPH_LIB	CV4	鈴	鈐	鈴	留人审
+01:53:9:14	lib_missing	Category.GLYPH_LIB	CV4	敎	穀	敎	留人审
+01:53:9:20	ref_gap	Category.REFERENCE	CV4		衰		留人审
+01:54:1:3	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:54:2:17	ref_ocr_diff	Category.MISMATCH	CV4	勢>勝	勝	勢	留人审
+01:54:3:6	lib_sparse_dissent	Category.GLYPH_LIB	CV3	闔>閫	閫	闔	留人审
+01:54:3:19	lib_missing	Category.GLYPH_LIB	CV4	駭	懾	駭	留人审
+01:54:4:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	歛>歙	歙	歛	留人审
+01:54:5:15	lib_missing	Category.GLYPH_LIB	CV4	惇	懷	惇	留人审
+01:54:5:18	lib_missing	Category.GLYPH_LIB	CV4	瘼	庫	瘼	留人审
+01:54:6:2	ref_ocr_diff	Category.MISMATCH	CV4	空>宐	宐	空	留人审
+01:54:6:3	lib_missing	Category.GLYPH_LIB	CV4	縻	膺	縻	留人审
+01:54:6:6	ref_gap	Category.REFERENCE	CV4		綺		留人审
+01:54:6:7	ref_gap	Category.REFERENCE	CV4		繆		留人审
+01:55:1:19	ref_ocr_diff	Category.MISMATCH	CV4	室>宐	宐	室	留人审
+01:55:9:2	ref_ocr_diff	Category.MISMATCH	CV4	登>釐	釐	登	留人审
+01:56:1:2	lib_missing	Category.GLYPH_LIB	CV4	惲	澤	惲	留人审
+01:56:3:18	lib_sparse_dissent	Category.GLYPH_LIB	CV3	赫>輔	輔	赫	留人审
+01:56:4:18	group_abstain	Category.GROUP	CV4	kou:lift	圖	國	留人审
+01:57:2:13	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:57:3:16	ref_ocr_diff	Category.MISMATCH	CV4	學>譽	譽	學	留人审
+01:57:5:17	variant_pair	Category.VARIANT	CV4	往/徃	徃	往	留人审
+01:58:1:20	lib_sparse_dissent	Category.GLYPH_LIB	CV3	永>筮	筮	永	留人审
+01:58:3:4	ref_ocr_diff	Category.MISMATCH	CV4	書>曹	曹	書	留人审
+01:58:4:4	lib_missing	Category.GLYPH_LIB	CV4	熙	庸	熙	留人审
+01:58:8:16	lib_missing	Category.GLYPH_LIB	CV4	黨	鬻	黨	留人审
+01:59:3:19	lib_missing	Category.GLYPH_LIB	CV4	粵	專	粵	留人审
+01:59:4:5	group_abstain	Category.GROUP	CV4	jys:review	已	已	留人审
+01:59:4:19	variant_pair	Category.VARIANT	CV4	俊/駿	俊	駿	留人审
+01:59:6:16	lib_sparse_dissent	Category.GLYPH_LIB	CV3	韜>輪	輪	韜	留人审
+01:59:7:1	lib_sparse_dissent	Category.GLYPH_LIB	CV3	衛>百	百	衛	留人审
+01:59:7:11	ref_ocr_diff	Category.MISMATCH	CV4	章>鞏	鞏	章	留人审
+01:59:7:18	lib_sparse_dissent	Category.GLYPH_LIB	CV3	爵>爾	爾	爵	留人审
+01:59:9:10	lib_missing	Category.GLYPH_LIB	CV4	臻	輳	臻	留人审
+01:59:9:12	seg_defect	Category.SEGMENTATION	CV2	clipped	服		算法再处理
+01:60:2:18	ref_ocr_diff	Category.MISMATCH	CV4	時>騎	騎	時	留人审
+01:60:2:19	lib_missing	Category.GLYPH_LIB	CV4	付	射	付	留人审
+01:60:4:19	ref_gap	Category.REFERENCE	CV4		額		留人审
+01:60:4:20	ref_gap	Category.REFERENCE	CV4		其		留人审
+01:60:7:14	ref_ocr_diff	Category.MISMATCH	CV4	懷>愜	愜	懷	留人审
+01:60:8:5	variant_pair	Category.VARIANT	CV4	衛/衞	衞	衛	留人审
+01:60:9:7	lib_unrecognized	Category.GLYPH_LIB	CV3	lib_diff:開	國	開	留人审
+01:60:9:8	ref_ocr_diff	Category.MISMATCH	CV4	於>翰	翰	於	留人审
+01:60:9:14	variant_pair	Category.VARIANT	CV4	衛/衞	衞	衛	留人审
+01:60:9:15	ref_ocr_diff	Category.MISMATCH	CV4	空>宐	宐	空	留人审
+01:61:4:14	ref_ocr_diff	Category.MISMATCH	CV4	蒙>襲	襲	蒙	留人审
+01:61:4:15	ref_ocr_diff	Category.MISMATCH	CV4	簡>爵	爵	簡	留人审
+01:61:4:20	lib_sparse_dissent	Category.GLYPH_LIB	CV3	閫>闢	闢	閫	留人审
+01:61:5:8	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:61:8:6	ref_ocr_diff	Category.MISMATCH	CV4	禦>樂	樂	禦	留人审
+01:61:9:12	lib_sparse_dissent	Category.GLYPH_LIB	CV3	據>攄	攄	據	留人审
+01:61:9:20	ref_gap	Category.REFERENCE	CV4		喉		留人审
+01:62:3:1	lib_sparse_dissent	Category.GLYPH_LIB	CV3	昆>毘	毘	昆	留人审
+01:62:3:4	ref_gap	Category.REFERENCE	CV4		拒		留人审
+01:62:3:5	ref_gap	Category.REFERENCE	CV4		亶		留人审
+01:62:4:9	ref_gap	Category.REFERENCE	CV4		鑾		留人审
+01:62:4:11	lib_sparse_dissent	Category.GLYPH_LIB	CV3	基>暴	暴	基	留人审
+01:62:6:2	ref_gap	Category.REFERENCE	CV4		奪		留人审
+01:62:6:3	ref_gap	Category.REFERENCE	CV4		其		留人审
+01:62:6:4	ref_gap	Category.REFERENCE	CV4		滁		留人审
+01:62:6:20	lib_missing	Category.GLYPH_LIB	CV4	獎	益	獎	留人审
+01:62:8:7	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:63:1:3	lib_missing	Category.GLYPH_LIB	CV4	技	校	技	留人审
+01:63:1:16	lib_missing	Category.GLYPH_LIB	CV4	料	科	料	留人审
+01:63:6:8	group_abstain	Category.GROUP	CV4	kgc:lift	冠	寇	留人审
+01:63:6:12	lib_missing	Category.GLYPH_LIB	CV4	遒	遇	遒	留人审
+01:63:9:2	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:63:9:8	ref_gap	Category.REFERENCE	CV4		擢		留人审
+01:64:1:11	ref_ocr_diff	Category.MISMATCH	CV4	語>誥	誥	語	留人审
+01:64:2:10	ref_ocr_diff	Category.MISMATCH	CV4	禁>聲	聲	禁	留人审
+01:64:6:7	group_abstain	Category.GROUP	CV4	zy:lift	干		留人审
+01:64:8:2	ref_ocr_diff	Category.MISMATCH	CV4	嚴>巖	巖	嚴	留人审
+01:65:1:10	ref_ocr_diff	Category.MISMATCH	CV4	語>誥	誥	語	留人审
+01:65:3:8	lib_missing	Category.GLYPH_LIB	CV4	面	固	面	留人审
+01:65:5:6	ref_ocr_diff	Category.MISMATCH	CV4	儉>楊	楊	儉	留人审
+01:65:5:7	ref_ocr_diff	Category.MISMATCH	CV4	者>省	省	者	留人审
+01:65:5:8	lib_sparse_dissent	Category.GLYPH_LIB	CV3	頃>垣	垣	頃	留人审
+01:65:5:17	group_abstain	Category.GROUP	CV4	kou:lift	圓		留人审
+01:65:7:10	ref_ocr_diff	Category.MISMATCH	CV4	龍>蘭	蘭	龍	留人审
+01:65:7:15	ref_ocr_diff	Category.MISMATCH	CV4	利>科	科	利	留人审
+01:65:8:18	lib_missing	Category.GLYPH_LIB	CV4	賴	刺	賴	留人审
+01:65:9:11	ref_gap	Category.REFERENCE	CV4		擇		留人审
+01:66:1:10	ref_ocr_diff	Category.MISMATCH	CV4	語>誥	誥	語	留人审
+01:66:5:8	group_abstain	Category.GROUP	CV4	jys:review	已	已	留人审
+01:66:6:3	group_abstain	Category.GROUP	CV4	men:lift	閩	關	留人审
+01:66:6:4	group_abstain	Category.GROUP	CV4	guanm:lift	閣	關	留人审
+01:66:7:3	group_abstain	Category.GROUP	CV4	guanm:lift	闢	關	留人审
+01:66:9:15	ref_ocr_diff	Category.MISMATCH	CV4	安>宐	宐	安	留人审
+01:67:3:18	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:68:1:12	lib_sparse_dissent	Category.GLYPH_LIB	CV3	紅>虹	虹	紅	留人审
+01:68:2:17	ref_ocr_diff	Category.MISMATCH	CV4	俊>伊	伊	俊	留人审
+01:68:2:18	lib_unrecognized	Category.GLYPH_LIB	CV3	lib_diff:奮	不	奮	留人审
+01:68:2:19	lib_sparse_dissent	Category.GLYPH_LIB	CV3	跡>幟	幟	跡	留人审
+01:68:3:4	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:68:3:19	ref_ocr_diff	Category.MISMATCH	CV4	典>興	興	典	留人审
+01:68:8:12	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:69:3:18	ref_ocr_diff	Category.MISMATCH	CV4	宣>宐	宐	宣	留人审
+01:69:5:9	lib_sparse_dissent	Category.GLYPH_LIB	CV3	闕>間	間	闕	留人审
+01:69:8:6	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:69:8:9	ref_ocr_diff	Category.MISMATCH	CV4	守>省	省	守	留人审
+01:69:8:20	lib_missing	Category.GLYPH_LIB	CV4	紵	綍	紵	留人审
+01:70:2:16	lib_missing	Category.GLYPH_LIB	CV4	殉	狗	殉	留人审
+01:70:3:20	variant_pair	Category.VARIANT	CV4	勲/勳	勲	勳	留人审
+01:70:4:5	group_abstain	Category.GROUP	CV4	men:lift	閱		留人审
+01:70:4:20	lib_sparse_dissent	Category.GLYPH_LIB	CV3	爵>爾	爾	爵	留人审
+01:70:5:11	lib_sparse_dissent	Category.GLYPH_LIB	CV3	永>末	末	永	留人审
+01:71:1:3	ref_ocr_diff	Category.MISMATCH	CV4	懿>騖	騖	懿	留人审
+01:71:3:11	ref_ocr_diff	Category.MISMATCH	CV4	宏>宐	宐	宏	留人审
+01:72:3:14	seg_defect	Category.SEGMENTATION	CV2	clipped	觀		算法再处理
+01:72:7:11	lib_sparse_dissent	Category.GLYPH_LIB	CV3	懼>權	權	懼	留人审
+01:72:7:16	lib_missing	Category.GLYPH_LIB	CV4	頓	頗	頓	留人审
+01:73:2:2	lib_missing	Category.GLYPH_LIB	CV4	閭	閫	閭	留人审
+01:73:3:13	lib_missing	Category.GLYPH_LIB	CV4	阨	輒	阨	留人审
+01:73:5:18	garble_gate	Category.GLYPH_LIB	CV4		末	未	留人审
+01:73:7:15	seg_defect	Category.SEGMENTATION	CV2	bleed	十		算法再处理
+01:74:4:13	lib_sparse_dissent	Category.GLYPH_LIB	CV3	眷>卷	卷	眷	留人审
+01:74:6:8	ref_ocr_diff	Category.MISMATCH	CV4	順>願	願	順	留人审
+01:75:4:13	group_abstain	Category.GROUP	CV4	men:lift	聞	闡	留人审
+01:75:5:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	懼>權	權	懼	留人审
+01:75:8:10	ref_ocr_diff	Category.MISMATCH	CV4	則>期	期	則	留人审
+01:75:9:6	ref_ocr_diff	Category.MISMATCH	CV4	寧>軍	軍	寧	留人审
+01:76:2:15	ref_gap	Category.REFERENCE	CV4		牛		留人审
+01:76:4:8	seg_defect	Category.SEGMENTATION	CV2	clipped	亂		算法再处理
+01:76:9:2	ref_gap	Category.REFERENCE	CV4		楓		留人审
+01:76:9:8	ref_gap	Category.REFERENCE	CV4		終		留人审
+01:77:1:10	seg_defect	Category.SEGMENTATION	CV2	clipped	子		算法再处理
+01:77:2:4	seg_defect	Category.SEGMENTATION	CV2	clipped	昔		算法再处理
+01:77:2:13	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	奇		算法再处理
+01:77:2:15	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	時		算法再处理
+01:77:2:17	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	閱		算法再处理
+01:77:2:18	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	輯		算法再处理
+01:77:3:3	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	壽		算法再处理
+01:77:3:4	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	鏐		算法再处理
+01:77:3:5	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	晞		算法再处理
+01:77:3:10	lib_missing	Category.GLYPH_LIB	CV4	涿	沫	涿	留人审
+01:77:3:13	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	千		算法再处理
+01:77:3:14	seg_page_unaligned	Category.SEGMENTATION	CV2	01:77	昇		算法再处理
+01:77:5:5	lib_missing	Category.GLYPH_LIB	CV4	澗	潤	澗	留人审
+01:78:5:5	lib_missing	Category.GLYPH_LIB	CV4	泖	測	泖	留人审
+01:78:5:10	lib_missing	Category.GLYPH_LIB	CV4	泖	制	泖	留人审
+01:78:6:9	lib_missing	Category.GLYPH_LIB	CV4	泖	洞	泖	留人审
+01:78:6:20	lib_missing	Category.GLYPH_LIB	CV4	泖	湖	泖	留人审
+01:78:7:7	lib_missing	Category.GLYPH_LIB	CV4	泖	測	泖	留人审
+01:78:8:8	lib_missing	Category.GLYPH_LIB	CV4	徼	稚	徼	留人审
+01:79:1:2	ref_gap	Category.REFERENCE	CV4		忭		留人审
+01:79:1:4	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:79:2:9	lib_missing	Category.GLYPH_LIB	CV4	澗	測	澗	留人审
+01:79:4:8	lib_missing	Category.GLYPH_LIB	CV4	軋	乾	軋	留人审
+01:79:5:19	ref_gap	Category.REFERENCE	CV4		族		留人审
+01:79:6:2	group_abstain	Category.GROUP	CV4	men:lift	間		留人审
+01:79:6:9	lib_sparse_dissent	Category.GLYPH_LIB	CV3	纓>攬	攬	纓	留人审
+01:79:7:13	lib_missing	Category.GLYPH_LIB	CV4	詵	翫	詵	留人审
+01:79:7:14	ref_ocr_diff	Category.MISMATCH	CV4	實>賞	賞	實	留人审
+01:80:1:2	ref_gap	Category.REFERENCE	CV4		彰		留人审
+01:80:1:3	ref_gap	Category.REFERENCE	CV4		濟		留人审
+01:80:1:9	lib_missing	Category.GLYPH_LIB	CV4	瀾	滿	瀾	留人审
+01:80:2:18	lib_missing	Category.GLYPH_LIB	CV4	嚙	特	嚙	留人审
+01:80:4:17	ref_gap	Category.REFERENCE	CV4		儔		留人审
+01:80:4:19	lib_missing	Category.GLYPH_LIB	CV4	鼈	審	鼈	留人审
+01:80:6:16	lib_missing	Category.GLYPH_LIB	CV4	暖	朕	暖	留人审
+01:80:7:6	lib_missing	Category.GLYPH_LIB	CV4	鶯	騖	鶯	留人审
+01:80:7:19	ref_gap	Category.REFERENCE	CV4		輒		留人审
+01:80:8:2	ref_gap	Category.REFERENCE	CV4		醞		留人审
+01:80:8:3	ref_gap	Category.REFERENCE	CV4		酒		留人审
+01:80:9:19	ref_gap	Category.REFERENCE	CV4		鏐		留人审
+01:81:1:8	lib_missing	Category.GLYPH_LIB	CV4	層	蜃	層	留人审
+01:81:3:2	lib_missing	Category.GLYPH_LIB	CV4	冀	奠	冀	留人审
+01:81:4:2	lib_sparse_dissent	Category.GLYPH_LIB	CV3	胼>服	服	胼	留人审
+01:81:6:2	lib_sparse_dissent	Category.GLYPH_LIB	CV3	肩>府	府	肩	留人审
+01:81:7:17	lib_sparse_dissent	Category.GLYPH_LIB	CV3	鯨>鮪	鮪	鯨	留人审
+01:82:4:9	lib_missing	Category.GLYPH_LIB	CV4	澗	刑	澗	留人审
+01:82:6:20	seg_defect	Category.SEGMENTATION	CV2	clipped	厭		算法再处理
+01:82:9:18	ref_gap	Category.REFERENCE	CV4		圓		留人审
+01:82:9:19	ref_gap	Category.REFERENCE	CV4		歐		留人审
+01:82:9:20	ref_gap	Category.REFERENCE	CV4		誠		留人审
+01:83:2:12	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:84:1:9	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:84:2:19	lib_missing	Category.GLYPH_LIB	CV4	迴	廼	迴	留人审
+01:84:3:2	ref_gap	Category.REFERENCE	CV4		戰		留人审
+01:84:3:14	lib_sparse_dissent	Category.GLYPH_LIB	CV3	虞>簇	簇	虞	留人审
+01:84:6:12	ref_ocr_diff	Category.MISMATCH	CV4	堂>笙	笙	堂	留人审
+01:84:6:13	lib_missing	Category.GLYPH_LIB	CV4	鑼	鏘	鑼	留人审
+01:84:7:9	ref_gap	Category.REFERENCE	CV4		麾		留人审
+01:84:7:10	ref_gap	Category.REFERENCE	CV4		叢		留人审
+01:84:7:12	lib_missing	Category.GLYPH_LIB	CV4	磬	播	磬	留人审
+01:84:7:17	lib_missing	Category.GLYPH_LIB	CV4	填	頃	填	留人审
+01:84:7:18	lib_missing	Category.GLYPH_LIB	CV4	篴	麓	篴	留人审
+01:84:9:19	lib_missing	Category.GLYPH_LIB	CV4	祝	柷	祝	留人审
+01:85:4:9	lib_missing	Category.GLYPH_LIB	CV4	頹	愼	頹	留人审
+01:85:7:6	group_abstain	Category.GROUP	CV4	guanm:lift	闢	關	留人审
+01:85:9:13	lib_sparse_dissent	Category.GLYPH_LIB	CV3	豈>置	置	豈	留人审
+01:86:3:4	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:86:8:9	group_abstain	Category.GROUP	CV4	zy:joint	子	于	留人审
+01:86:9:10	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:87:2:7	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:87:2:16	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:87:4:13	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:87:6:2	lib_missing	Category.GLYPH_LIB	CV4	鸞	驚	鸞	留人审
+01:87:9:20	ref_gap	Category.REFERENCE	CV4		整		留人审
+01:88:1:9	lib_missing	Category.GLYPH_LIB	CV4	飾	儲	飾	留人审
+01:88:2:5	lib_sparse_dissent	Category.GLYPH_LIB	CV3	耀>懼	懼	耀	留人审
+01:88:2:11	ref_ocr_diff	Category.MISMATCH	CV4	思>患	患	思	留人审
+01:88:3:5	lib_missing	Category.GLYPH_LIB	CV4	曰	田	曰	留人审
+01:88:7:18	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:88:8:19	lib_sparse_dissent	Category.GLYPH_LIB	CV3	案>秉	秉	案	留人审
+01:88:9:5	ref_gap	Category.REFERENCE	CV4		末		留人审
+01:88:9:7	lib_missing	Category.GLYPH_LIB	CV4	涵	湧	涵	留人审
+01:88:9:19	ref_gap	Category.REFERENCE	CV4		泌		留人审
+01:88:9:20	ref_gap	Category.REFERENCE	CV4		愼		留人审
+01:89:3:11	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:89:7:20	ref_ocr_diff	Category.MISMATCH	CV4	夙>夏	夏	夙	留人审
+01:90:2:18	lib_missing	Category.GLYPH_LIB	CV4	盼	肹	盼	留人审
+01:90:4:19	lib_missing	Category.GLYPH_LIB	CV4	嬉	號	嬉	留人审
+01:90:5:12	lib_missing	Category.GLYPH_LIB	CV4	睡	曠	睡	留人审
+01:90:6:7	lib_missing	Category.GLYPH_LIB	CV4	醴	釀	醴	留人审
+01:90:7:15	lib_missing	Category.GLYPH_LIB	CV4	零	牢	零	留人审
+01:90:8:13	lib_sparse_dissent	Category.GLYPH_LIB	CV3	郎>鄙	鄙	郎	留人审
+01:90:9:12	ref_gap	Category.REFERENCE	CV4		娟		留人审
+01:90:9:13	ref_gap	Category.REFERENCE	CV4		鞭		留人审
+01:91:1:19	lib_missing	Category.GLYPH_LIB	CV4	羨	美	羨	留人审
+01:91:2:20	ref_ocr_diff	Category.MISMATCH	CV4	軒>軿	軿	軒	留人审
+01:91:3:4	near_form_guard	Category.NEAR_FORM	CV4	未/末	末	未	留人审
+01:92:1:11	ref_ocr_diff	Category.MISMATCH	CV4	歷>屋	屋	歷	留人审
+01:92:6:8	ref_ocr_diff	Category.MISMATCH	CV4	矧>罰	罰	矧	留人审
+01:92:6:12	ref_ocr_diff	Category.MISMATCH	CV4	飲>歛	歛	飲	留人审
+01:92:8:14	ref_ocr_diff	Category.MISMATCH	CV4	家>軍	軍	家	留人审
+01:93:1:16	ref_ocr_diff	Category.MISMATCH	CV4	講>請	請	講	留人审
+01:93:3:12	lib_sparse_dissent	Category.GLYPH_LIB	CV3	祚>祐	祐	祚	留人审
+01:93:9:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	藜>藂	藂	藜	留人审
+01:94:3:11	group_abstain	Category.GROUP	CV4	rm:lift	目		留人审
+01:94:4:14	lib_missing	Category.GLYPH_LIB	CV4	杳	香	杳	留人审
+01:94:5:3	lib_missing	Category.GLYPH_LIB	CV4	旖	族	旖	留人审
+01:94:6:14	ref_ocr_diff	Category.MISMATCH	CV4	廣>清	清	廣	留人审
+01:94:6:15	lib_sparse_dissent	Category.GLYPH_LIB	CV3	敞>娛	娛	敞	留人审
+01:94:6:17	ref_ocr_diff	Category.MISMATCH	CV4	西>四	四	西	留人审
+01:94:8:15	ref_ocr_diff	Category.MISMATCH	CV4	垂>益	益	垂	留人审
+01:94:8:20	lib_missing	Category.GLYPH_LIB	CV4	媽	嫣	媽	留人审
+01:95:2:6	lib_missing	Category.GLYPH_LIB	CV4	巒	獻	巒	留人审
+01:95:2:7	lib_sparse_dissent	Category.GLYPH_LIB	CV3	徑>怪	怪	徑	留人审
+01:95:2:12	lib_missing	Category.GLYPH_LIB	CV4	迴	迤	迴	留人审
+01:95:2:13	group_abstain	Category.GROUP	CV4	chuo:lift	通	邇	留人审
+01:95:4:7	ref_ocr_diff	Category.MISMATCH	CV4	興>輿	輿	興	留人审
+01:95:4:20	ref_ocr_diff	Category.MISMATCH	CV4	易>曷	曷	易	留人审
+01:95:6:17	group_abstain	Category.GROUP	CV4	xuan:lift	逸	選	留人审
+01:95:7:17	lib_sparse_dissent	Category.GLYPH_LIB	CV3	膏>裔	裔	膏	留人审
+01:95:8:11	lib_missing	Category.GLYPH_LIB	CV4	鷗	騁	鷗	留人审
+01:95:8:17	ref_ocr_diff	Category.MISMATCH	CV4	貢>賁	賁	貢	留人审
+01:95:9:7	ref_ocr_diff	Category.MISMATCH	CV4	真>藝	藝	真	留人审
+01:96:4:14	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:96:6:14	lib_missing	Category.GLYPH_LIB	CV4	飭	動	飭	留人审
+01:96:6:19	group_abstain	Category.GROUP	CV4	chuo:lift	述	道	留人审
+01:96:9:20	group_abstain	Category.GROUP	CV4	yt:lift	圓		留人审
+01:97:1:6	ref_ocr_diff	Category.MISMATCH	CV4	縣>黟	黟	縣	留人审
+01:97:1:18	lib_missing	Category.GLYPH_LIB	CV4	曰	田	曰	留人审
+01:97:2:12	lib_missing	Category.GLYPH_LIB	CV4	繇	緜	繇	留人审
+01:97:2:17	lib_missing	Category.GLYPH_LIB	CV4	戩	棲	戩	留人审
+01:97:3:5	lib_missing	Category.GLYPH_LIB	CV4	曰	田	曰	留人审
+01:97:3:7	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:97:4:17	lib_sparse_dissent	Category.GLYPH_LIB	CV3	礪>碣	碣	礪	留人审
+01:97:4:18	lib_sparse_dissent	Category.GLYPH_LIB	CV3	礪>禍	禍	礪	留人审
+01:97:6:11	lib_missing	Category.GLYPH_LIB	CV4	盼	助	盼	留人审
+01:97:6:12	lib_missing	Category.GLYPH_LIB	CV4	睠	昧	睠	留人审
+01:97:6:15	group_abstain	Category.GROUP	CV4	kou:lift	園	圍	留人审
+01:97:8:5	near_form_guard	Category.NEAR_FORM	CV4	固/面	固	面	留人审
+01:98:1:20	lib_missing	Category.GLYPH_LIB	CV4	跋	鼓	跋	留人审
+01:98:2:7	lib_missing	Category.GLYPH_LIB	CV4	潯	滿	潯	留人审
+01:98:3:6	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:98:4:9	near_form_guard	Category.NEAR_FORM	CV4	西/面	西	面	留人审
+01:98:5:17	lib_missing	Category.GLYPH_LIB	CV4	瞻	眺	瞻	留人审
+01:98:6:20	group_abstain	Category.GROUP	CV4	rm:joint	目	曰	留人审
+01:98:7:10	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:99:3:17	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:99:4:18	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:99:6:12	group_abstain	Category.GROUP	CV4	rm:joint	目	曰	留人审
+01:99:9:8	lib_missing	Category.GLYPH_LIB	CV4	皐	泉	皐	留人审
+01:99:9:15	lib_missing	Category.GLYPH_LIB	CV4	粵	喜	粵	留人审
+01:99:9:20	ref_gap	Category.REFERENCE	CV4		授		留人审
+01:100:1:1	ref_gap	Category.REFERENCE	CV4		患		留人审
+01:100:1:9	ref_gap	Category.REFERENCE	CV4		歸		留人审
+01:100:1:13	ref_gap	Category.REFERENCE	CV4		破		留人审
+01:100:1:15	ref_ocr_diff	Category.MISMATCH	CV4	畧>譽	譽	畧	留人审
+01:100:2:3	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:100:2:7	seg_col_unaligned	Category.SEGMENTATION	CV2	01:100:2	葉		算法再处理
+01:100:2:9	seg_col_unaligned	Category.SEGMENTATION	CV2	01:100:2	鐵		算法再处理
+01:100:2:13	seg_col_unaligned	Category.SEGMENTATION	CV2	01:100:2	濤		算法再处理
+01:100:2:15	seg_col_unaligned	Category.SEGMENTATION	CV2	01:100:2	夏		算法再处理
+01:100:2:17	seg_col_unaligned	Category.SEGMENTATION	CV2	01:100:2	日		算法再处理
+01:100:3:8	ref_ocr_diff	Category.MISMATCH	CV4	丘>扈	扈	丘	留人审
+01:100:3:19	ref_ocr_diff	Category.MISMATCH	CV4	凡>允	允	凡	留人审
+01:100:4:11	lib_missing	Category.GLYPH_LIB	CV4	蘊	臺	蘊	留人审
+01:100:4:12	lib_missing	Category.GLYPH_LIB	CV4	蘊	龜	蘊	留人审
+01:100:4:17	lib_sparse_dissent	Category.GLYPH_LIB	CV3	歛>歙	歙	歛	留人审
+01:100:7:5	lib_missing	Category.GLYPH_LIB	CV4	憇	懿	憇	留人审
+01:100:7:8	ref_ocr_diff	Category.MISMATCH	CV4	書>垂	垂	書	留人审
+01:100:7:16	lib_sparse_dissent	Category.GLYPH_LIB	CV3	髯>髻	髻	髯	留人审
+01:100:8:5	lib_missing	Category.GLYPH_LIB	CV4	瞻	隋	瞻	留人审
+01:101:2:2	lib_sparse_dissent	Category.GLYPH_LIB	CV3	爰>美	美	爰	留人审
+01:101:2:6	lib_missing	Category.GLYPH_LIB	CV4	墉	牆	墉	留人审
+01:101:3:5	lib_sparse_dissent	Category.GLYPH_LIB	CV3	儻>俊	俊	儻	留人审
+01:101:3:12	lib_sparse_dissent	Category.GLYPH_LIB	CV3	儻>懷	懷	儻	留人审
+01:101:4:11	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:101:6:9	ref_ocr_diff	Category.MISMATCH	CV4	御>翫	翫	御	留人审
+01:102:1:5	group_abstain	Category.GROUP	CV4	rm:joint	目	曰	留人审
+01:102:1:10	lib_missing	Category.GLYPH_LIB	CV4	箴	蔑	箴	留人审
+01:102:2:2	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:102:2:6	lib_sparse_dissent	Category.GLYPH_LIB	CV3	堯>妾	妾	堯	留人审
+01:102:2:7	lib_sparse_dissent	Category.GLYPH_LIB	CV3	堯>楚	楚	堯	留人审
+01:102:4:8	lib_missing	Category.GLYPH_LIB	CV4	賴	類	賴	留人审
+01:102:7:4	ref_ocr_diff	Category.MISMATCH	CV4	嚴>巖	巖	嚴	留人审
+01:102:9:2	lib_missing	Category.GLYPH_LIB	CV4	幼	幻	幼	留人审
+01:103:7:12	lib_missing	Category.GLYPH_LIB	CV4	憑	憇	憑	留人审
+01:103:8:7	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:103:9:7	lib_missing	Category.GLYPH_LIB	CV4	瀨	湘	瀨	留人审
+01:104:1:17	lib_sparse_dissent	Category.GLYPH_LIB	CV3	醉>酌	酌	醉	留人审
+01:104:1:19	ref_ocr_diff	Category.MISMATCH	CV4	凡>几	几	凡	留人审
+01:104:3:11	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:104:3:12	ref_ocr_diff	Category.MISMATCH	CV4	巖>𡽪	𡽪	巖	留人审
+01:104:5:4	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:104:5:12	ref_ocr_diff	Category.MISMATCH	CV4	塵>靡	靡	塵	留人审
+01:104:6:3	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:104:6:8	ref_ocr_diff	Category.MISMATCH	CV4	凡>九	九	凡	留人审
+01:104:6:11	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:104:7:10	ref_gap	Category.REFERENCE	CV4		戀		留人审
+01:104:7:11	ref_gap	Category.REFERENCE	CV4		巫		留人审
+01:104:7:15	lib_sparse_dissent	Category.GLYPH_LIB	CV3	青>背	背	青	留人审
+01:104:8:16	ref_ocr_diff	Category.MISMATCH	CV4	盤>倣	倣	盤	留人审
+01:104:8:20	ref_ocr_diff	Category.MISMATCH	CV4	巖>靳	靳	巖	留人审
+01:104:9:14	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:104:9:20	ref_gap	Category.REFERENCE	CV4		岡		留人审
+01:105:2:1	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:105:2:9	lib_sparse_dissent	Category.GLYPH_LIB	CV3	鍾>鈿	鈿	鍾	留人审
+01:105:3:8	seg_col_unaligned	Category.SEGMENTATION	CV2	01:105:3	刑		算法再处理
+01:105:3:9	seg_col_unaligned	Category.SEGMENTATION	CV2	01:105:3	捧		算法再处理
+01:105:3:10	seg_col_unaligned	Category.SEGMENTATION	CV2	01:105:3	眺		算法再处理
+01:105:3:11	seg_col_unaligned	Category.SEGMENTATION	CV2	01:105:3	孤		算法再处理
+01:105:3:12	seg_col_unaligned	Category.SEGMENTATION	CV2	01:105:3	免		算法再处理
+01:105:3:15	lib_sparse_dissent	Category.GLYPH_LIB	CV3	薪>菊	菊	薪	留人审
+01:105:3:20	lib_missing	Category.GLYPH_LIB	CV4	魑	題	魑	留人审
+01:105:4:1	lib_missing	Category.GLYPH_LIB	CV4	魍	題	魍	留人审
+01:105:4:19	group_abstain	Category.GROUP	CV4	guanm:lift	闢	關	留人审
+01:105:5:1	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:105:5:12	lib_missing	Category.GLYPH_LIB	CV4	瘴	庫	瘴	留人审
+01:105:5:13	lib_missing	Category.GLYPH_LIB	CV4	飭	動	飭	留人审
+01:105:6:3	lib_sparse_dissent	Category.GLYPH_LIB	CV3	崑>駱	駱	崑	留人审
+01:105:6:4	ref_ocr_diff	Category.MISMATCH	CV4	巖>覺	覺	巖	留人审
+01:105:6:7	lib_missing	Category.GLYPH_LIB	CV4	鑿	鑒	鑿	留人审
+01:105:6:9	lib_missing	Category.GLYPH_LIB	CV4	瀝	瀟	瀝	留人审
+01:105:7:15	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:105:7:20	ref_ocr_diff	Category.MISMATCH	CV4	虛>盧	盧	虛	留人审
+01:106:4:18	lib_sparse_dissent	Category.GLYPH_LIB	CV3	調>講	講	調	留人审
+01:106:5:15	lib_missing	Category.GLYPH_LIB	CV4	諠	謔	諠	留人审
+01:106:6:13	ref_ocr_diff	Category.MISMATCH	CV4	數>鞍	鞍	數	留人审
+01:106:6:16	lib_missing	Category.GLYPH_LIB	CV4	瓊	環	瓊	留人审
+01:106:6:20	lib_missing	Category.GLYPH_LIB	CV4	綵	練	綵	留人审
+01:106:7:19	ref_ocr_diff	Category.MISMATCH	CV4	燕>葱	葱	燕	留人审
+01:106:8:19	ref_ocr_diff	Category.MISMATCH	CV4	容>宻	宻	容	留人审
+01:106:9:17	lib_missing	Category.GLYPH_LIB	CV4	羨	美	羨	留人审
+01:106:9:20	ref_gap	Category.REFERENCE	CV4		得		留人审
+01:107:3:9	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:107:3:15	lib_sparse_dissent	Category.GLYPH_LIB	CV3	饌>續	續	饌	留人审
+01:107:3:17	ref_gap	Category.REFERENCE	CV4		樽		留人审
+01:107:3:19	ref_ocr_diff	Category.MISMATCH	CV4	談>渡	渡	談	留人审
+01:107:4:9	lib_missing	Category.GLYPH_LIB	CV4	厄	尼	厄	留人审
+01:107:4:13	lib_sparse_dissent	Category.GLYPH_LIB	CV3	醉>辭	辭	醉	留人审
+01:107:4:15	lib_missing	Category.GLYPH_LIB	CV4	槐	桃	槐	留人审
+01:107:4:19	lib_missing	Category.GLYPH_LIB	CV4	眠	眼	眠	留人审
+01:107:5:5	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:107:5:20	lib_missing	Category.GLYPH_LIB	CV4	曰	四	曰	留人审
+01:107:6:4	lib_missing	Category.GLYPH_LIB	CV4	迓	逐	迓	留人审
+01:107:7:5	group_abstain	Category.GROUP	CV4	rm:joint	目	曰	留人审
+01:107:9:15	lib_missing	Category.GLYPH_LIB	CV4	艷	鮑	艷	留人审
+01:108:2:9	lib_missing	Category.GLYPH_LIB	CV4	蜜	宻	蜜	留人审
+01:108:4:15	lib_missing	Category.GLYPH_LIB	CV4	燠	棲	燠	留人审
+01:108:6:6	lib_sparse_dissent	Category.GLYPH_LIB	CV3	逆>遲	遲	逆	留人审
+01:108:8:14	ref_ocr_diff	Category.MISMATCH	CV4	愚>恐	恐	愚	留人审
+01:109:1:1	ref_gap	Category.REFERENCE	CV4		濁		留人审
+01:109:1:2	ref_gap	Category.REFERENCE	CV4		肩		留人审
+01:109:6:1	group_abstain	Category.GROUP	CV4	jys:review	已	已	留人审
+01:109:6:6	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:109:8:1	lib_sparse_dissent	Category.GLYPH_LIB	CV3	阿>河	河	阿	留人审
+01:110:2:5	lib_missing	Category.GLYPH_LIB	CV4	曰	田	曰	留人审
+01:110:2:16	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:110:3:7	lib_missing	Category.GLYPH_LIB	CV4	曰	圓	曰	留人审
+01:110:4:1	seg_defect	Category.SEGMENTATION	CV2	bleed	酉	道	算法再处理
+01:110:4:12	lib_missing	Category.GLYPH_LIB	CV4	曰	目	曰	留人审
+01:110:6:15	ref_gap	Category.REFERENCE	CV4		蕩		留人审
+01:110:7:5	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:110:7:14	ref_ocr_diff	Category.MISMATCH	CV4	振>操	操	振	留人审
+01:110:7:15	ref_ocr_diff	Category.MISMATCH	CV4	振>履	履	振	留人审
+01:111:1:4	ref_ocr_diff	Category.MISMATCH	CV4	靜>鄙	鄙	靜	留人审
+01:111:1:15	ref_gap	Category.REFERENCE	CV4		魂		留人审
+01:111:1:17	ref_gap	Category.REFERENCE	CV4		聳		留人审
+01:111:2:16	lib_missing	Category.GLYPH_LIB	CV4	修	侈	修	留人审
+01:111:3:20	lib_missing	Category.GLYPH_LIB	CV4	醕	酌	醕	留人审
+01:111:5:8	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:111:5:10	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:111:6:2	hard_pair	Category.HARD_PAIR	CV4	已	已	已	留人审
+01:111:7:2	ref_ocr_diff	Category.MISMATCH	CV4	遵>邊	邊	遵	留人审
+01:111:7:4	ref_gap	Category.REFERENCE	CV4		簋		留人审
+01:112:3:7	lib_missing	Category.GLYPH_LIB	CV4	駒	駟	駒	留人审
+01:112:4:9	hard_pair	Category.HARD_PAIR	CV4	日/曰	日	曰	留人审
+01:112:5:3	lib_missing	Category.GLYPH_LIB	CV4	羨	美	羨	留人审
+01:112:9:18	lib_missing	Category.GLYPH_LIB	CV4	箴	帶	箴	留人审
+01:113:1:-2	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	扁		算法再处理
+01:113:1:1	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	求		算法再处理
+01:113:1:3	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	侯		算法再处理
+01:113:1:6	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	少		算法再处理
+01:113:1:7	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	盡		算法再处理
+01:113:1:8	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	目		算法再处理
+01:113:1:9	seg_col_unaligned	Category.SEGMENTATION	CV2	01:113:1	否		算法再处理
+01:113:8:8	seg_defect	Category.SEGMENTATION	CV2	bleed	移		算法再处理
