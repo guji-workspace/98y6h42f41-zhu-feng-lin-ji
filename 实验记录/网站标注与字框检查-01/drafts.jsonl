@@ -1,0 +1,38 @@
+{"id": "01:2:1:12", "v": "confirm", "shape": "序", "pending_reason": "ref_gap", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:2:2:4", "v": "not_a_char", "pending_reason": "seg_defect", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:2:2:8", "v": "confirm", "shape": "天", "pending_reason": "ref_ocr_diff", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:2:6:12", "v": "confirm", "shape": "閫", "pending_reason": "ref_ocr_diff", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:2", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_defect", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:6", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_col_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:7", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_col_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:9", "v": "confirm", "shape": "世", "pending_reason": "seg_col_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:10", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_col_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:3:11", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_col_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:3:4:2", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_defect", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:6:2:17", "v": "confirm", "shape": "𫉬", "pending_reason": "ref_gap", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:6:2:18", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_defect", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:7:3:20", "v": "confirm", "shape": "覩", "pending_reason": "ref_ocr_diff", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:1:10", "v": "confirm", "shape": "已", "pending_reason": "hard_pair", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:4:18", "v": "confirm", "shape": "淶", "pending_reason": "lib_missing", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:4:19", "v": "confirm", "shape": "蝢", "pending_reason": "lib_missing", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:2", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_defect", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:3", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:10", "v": "not_a_char", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:11", "v": "not_a_char", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:15", "v": "not_a_char", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:5:16", "v": "not_a_char", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:6:16b", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:6:17b", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:6:18b", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:9:6:19b", "v": "seg_defect", "quality": "truncated", "pending_reason": "seg_page_unaligned", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:11:6:10", "v": "confirm", "shape": "達", "pending_reason": "lib_sparse_dissent", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:12:8:11", "v": "confirm", "shape": "臻", "pending_reason": "lib_missing", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:13:7:10", "v": "confirm", "shape": "鄧", "pending_reason": "ref_ocr_diff", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:13:7:11", "v": "confirm", "shape": "愈", "pending_reason": "lib_missing", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:14:1:15", "v": "not_a_char", "pending_reason": "ref_gap", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:14:1:16", "v": "not_a_char", "pending_reason": "ref_gap", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:14:1:20", "v": "not_a_char", "pending_reason": "group_abstain", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:14:6:3", "v": "confirm", "shape": "之", "pending_reason": "ref_gap", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:15:5:2", "v": "confirm", "shape": "卷", "pending_reason": "group_abstain", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:15:9:4", "v": "confirm", "shape": "書", "pending_reason": "ref_ocr_diff", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
+{"id": "01:16:7:9", "v": "confirm", "shape": "藁", "pending_reason": "lib_missing", "note": "", "source": "网站精校意见（001-r0）；意见来源 KPMPK8HK"}
